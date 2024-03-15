@@ -1,0 +1,12 @@
+.minecraft/.fabric
+.minecraft/.optifabric
+.minecraft/coremods
+.minecraft/logs
+.minecraft/resourcepacks
+.minecraft/resources
+.minecraft/saves
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/stats
+.minecraft/options.txt
+*.log

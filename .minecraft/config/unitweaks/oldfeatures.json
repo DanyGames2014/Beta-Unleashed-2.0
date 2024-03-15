@@ -1,0 +1,10 @@
+{
+	"hoeGrassForSeeds": false,
+	"boatElevators": false,
+	"minecartBoosters": false,
+	"punchTntToIgnite": false,
+	"ladderGaps": false,
+	"disableDeadBushGeneration": false,
+	"disableTallGrassGeneration": false,
+	"punchSheepForWool": false
+}

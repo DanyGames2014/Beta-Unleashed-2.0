@@ -1,0 +1,12 @@
+{
+	// Only works if fence bounding box fix is enabled
+	"fenceJumping": false,
+	// Ignores block actions allowing you to place blocks when crouching
+	"shiftPlacing": true,
+	"pickBlockFromInventory": true,
+	"rightClickEquipArmor": true,
+	// Allows you to step up one block
+	"stepAssist": false,
+	// Prevents you from eating when your health is full
+	"noFoodWastage": true
+}

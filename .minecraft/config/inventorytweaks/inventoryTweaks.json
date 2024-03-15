@@ -1,0 +1,27 @@
+{
+	"MODERN_MINECRAFT_CONFIG": {
+		"EnableLeftClickDrag": true,
+		"RMBPreferShiftClick": true,
+		"EnableRightClickDrag": true,
+		"LMBPreferShiftClick": true,
+		"EnableDragGraphics": true,
+		"LCtrlStackDrop": true,
+		// Cursor must not be holding any items
+		"UseDropKeyInInventory": true,
+		// Hover over the slot or swap cursor item
+		"NumKeyHotbarSwap": true
+	},
+	"MOUSE_TWEAKS_CONFIG": {
+		"SCROLL_WHEEL_CONFIG": {
+			"enableScrollWheelTweaks": true,
+			// For cursor/slot item transfer
+			"invertScrollCursorSlotDirection": false
+		},
+		// [Shift-Click] items of the held type
+		"LMBTweakShiftClick": true,
+		"LMBTweakPickUp": true,
+		"RMBTweak": true,
+		// [Shift-Click] items of any type
+		"LMBTweakShiftClickAny": true
+	}
+}

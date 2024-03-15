@@ -1,0 +1,34 @@
+{
+	// Restart required for changes to take effect
+	"RESOURCES_DOWNLOAD_URL": "http://mcresources.modification-station.net/MinecraftResources/",
+	// Restart required for changes to take effect
+	"enableAuthenticationChanges": true,
+	// Restart required for changes to take effect
+	"enableControlsChanges": true,
+	// Restart required for changes to take effect
+	"enableMojangFixTextOnTitleScreen": false,
+	// Restart required for changes to take effect
+	"enableChatChanges": true,
+	// Restart required for changes to take effect
+	"enableDebugMenuWorldSeed": true,
+	// Restart required for changes to take effect
+	"enableInventoryChanges": true,
+	// Restart required for changes to take effect
+	"enableSkinChanges": true,
+	// Restart required for changes to take effect
+	"prioritizeMojangProvider": false,
+	// Restart required for changes to take effect
+	"useResourcesDownloadURL": true,
+	// Restart required for changes to take effect
+	"enableDeathScreenScoreFix": true,
+	// Restart required for changes to take effect
+	"enableMultiplayerServerChanges": true,
+	// Restart required for changes to take effect
+	"enableBitDepthFix": true,
+	// Restart required for changes to take effect
+	"enableWoodenSignChanges": true,
+	// Restart required for changes to take effect
+	"enableQuitButton": true,
+	// Restart required for changes to take effect
+	"enableDebugGraphChanges": true
+}
