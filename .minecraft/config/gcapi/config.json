@@ -5,17 +5,17 @@
 	"testedConfig": "nerd",
 	"testConfig1": "wow",
 	"configCategory": {
-		"ohNo": "reee",
 		"secondCategory": {
-			"aFIList": [],
-			"aIList": [],
-			"aList": [],
-			"aFList": [],
 			"aBoolean": false,
+			"aIList": [],
+			"aFIList": [],
+			"aList": [],
 			// Floats are cool.
-			"yayFloatingPoint": 1.0
+			"yayFloatingPoint": 1.0,
+			"aFList": []
 		},
-		"ohYes": 0
+		"ohYes": 0,
+		"ohNo": "reee"
 	},
 	"mpBool": false,
 	"enumTest": 0
