@@ -1,0 +1,10 @@
+{
+	"enableChatScroll": true,
+	"disableCrosshair": false,
+	// 100 = vanilla, 10 = 1 second
+	"chatFadeTime": 100,
+	// 0 = vanilla, 32 = xbox, 200 = top
+	"hotbarYPositionOffset": 0,
+	// 50 = vanilla, 100 = default
+	"chatHistorySize": 100
+}
