@@ -5,7 +5,7 @@
 	"mpTimeNightCommand": "/time set 13000",
 	"mpRainONCommand": "",
 	"mpGiveCommand": "/give {0} {1} {2}",
-	"overlayEnabled": true,
+	"overlayEnabled": false,
 	"recipeViewerDraggableGui": false,
 	"scrollInverted": false,
 	// Shows items with null names. Can cause crashes with poorly made mods.

@@ -1,0 +1,27 @@
+{
+	// Feather will be consumed on use
+	"enableEditSignsWithFeathers": false,
+	"disableAllExplosionsBreakingBlocks": false,
+	"disableCreeperExplosionBreakingBlocks": false,
+	// Chests can open when a block is above them
+	"enableChestsOpenWithBlockAbove": false,
+	// Restart required for changes to take effect
+	"modernArmorDefensePoints": false,
+	"disableGhastExplosionBreakingBlocks": false,
+	"disableGhastExplosionCausingFire": false,
+	// Only affects player with leather boots
+	"disableTrampleFarmlandWithLeatherBoots": false,
+	// Restart required for changes to take effect
+	"equalizeBaseArmorDurability": false,
+	// Dye will be consumed on use
+	"enableColorSignsWithDye": false,
+	// Player/mobs will no longer trample farmland
+	"disableTramplingFarmland": false,
+	// Use Left-Click with shears to defuse
+	"enableDefusingTnt": false,
+	// Only affects player without boots
+	"disableTrampleFarmlandWhenBarefoot": false,
+	"disableTntExplosionBreakingBlocks": false,
+	// 0 = disabled, 5 = modern drop chance
+	"appleDropChance": 0
+}
