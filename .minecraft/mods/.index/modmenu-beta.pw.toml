@@ -1,0 +1,13 @@
+filename = 'modmenu-1.8.5-beta.3.jar'
+name = 'ModMenu Beta'
+side = 'client'
+
+[download]
+hash = 'e0a4cca7921e1b423d17a52ce947dc987eb129363b3fb877bf66f58aa3fd91f3b6f37588739675e7f4c5317e0ba06a3e9982ede22816243f719c72fc99864cef'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6v8kVRE3/versions/ntmKsIrU/modmenu-1.8.5-beta.3.jar'
+
+[update.modrinth]
+mod-id = '6v8kVRE3'
+version = 'ntmKsIrU'

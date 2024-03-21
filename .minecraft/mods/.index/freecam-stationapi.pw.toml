@@ -1,0 +1,13 @@
+filename = 'freecam-0.1.0.jar'
+name = 'Freecam StationAPI'
+side = 'client'
+
+[download]
+hash = 'b5bcd300583ec3aa2da3367f076f0c4de00e2106bff49a2d2d240c7b656f81f2b022d303add09177ddba42fcb842bcbbd50c2b88ca70c21cf82bc71122cf0105'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/skGiNNDk/versions/UNElMWJP/freecam-0.1.0.jar'
+
+[update.modrinth]
+mod-id = 'skGiNNDk'
+version = 'UNElMWJP'

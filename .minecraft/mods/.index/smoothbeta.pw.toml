@@ -1,0 +1,13 @@
+filename = 'SmoothBeta-1.1.5.jar'
+name = 'SmoothBeta'
+side = 'both'
+
+[download]
+hash = 'd117fb512a408df327035a1363091806f43c7849d122b1380cdb6144749dba0a81baad57af3f7acef21a511c9e7778939afbcca871a3d244b2eaa11f7f6ef35c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pocqBhPk/versions/6OmLHirm/SmoothBeta-1.1.5.jar'
+
+[update.modrinth]
+mod-id = 'pocqBhPk'
+version = '6OmLHirm'

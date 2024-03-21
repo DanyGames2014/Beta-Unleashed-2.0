@@ -1,0 +1,13 @@
+filename = 'HudTweaks-1.1.0.jar'
+name = 'HudTweaks StationAPI'
+side = 'client'
+
+[download]
+hash = '4e6b785dc8e445885f6c8bda495999ad95cf4d3f2029020c4552a2683b7f7e937d4c98777cba6302b687612efed22c028ce7aee2e107ee2e8b931b2a4e9721f7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/F5B9HnVw/versions/Y291jo9J/HudTweaks-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'F5B9HnVw'
+version = 'Y291jo9J'
