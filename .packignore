@@ -1,1 +1,10 @@
+.git
+.minecraft/coremods
+.minecraft/options.txt
+.minecraft/resourcepacks
 .minecraft/resources
+.minecraft/saves
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/servers.dat
+.minecraft/stats
