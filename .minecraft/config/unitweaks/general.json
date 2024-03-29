@@ -1,16 +1,16 @@
 {
 	"panoramaConfig": {
-		"enablePanorma": false,
-		"blurBackground": false,
 		// Default included : beta18, glacier
-		"panoramaFolder": "glacier"
+		"panoramaFolder": "glacier",
+		"blurBackground": false,
+		"enablePanorma": false
 	},
 	"versionTextConfig": {
+		// Only has effect if custom version text is enabled
+		"customVersionText": "Minecraft Beta 1.7.3 (Beta Unleashed)",
 		"showVersionTextIngame": false,
 		"unlicensedCopy": false,
-		"enableCustomVersionText": false,
-		// Only has effect if custom version text is enabled
-		"customVersionText": "Minecraft Beta 1.7.3 (Beta Unleashed)"
+		"enableCustomVersionText": false
 	},
 	"improvedControlsMenu": true,
 	"hideAchievementToast": false,

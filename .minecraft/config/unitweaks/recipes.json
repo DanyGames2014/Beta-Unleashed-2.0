@@ -1,31 +1,31 @@
 {
 	"modern": {
-		"modernFenceRecipe": false,
-		"oneStonePerButton": true,
-		"threeLadersPerCraft": false,
-		"shapelessChestMinecart": true,
-		"shapelessStickyPistons": true,
-		"booksRequireLeather": false,
-		"sixSlabsPerCraft": false,
 		"snowLayerRecipe": true,
+		"booksRequireLeather": false,
+		"modernFenceRecipe": false,
+		"woolRedyeing": true,
+		"oneStonePerButton": true,
+		"shapelessChestMinecart": true,
 		"shapelessMushroomStew": true,
-		"shapelessFurnaceMinecart": true,
 		"shapelessFlintAndSteel": true,
-		"woolRedyeing": true
+		"sixSlabsPerCraft": false,
+		"shapelessFurnaceMinecart": true,
+		"shapelessStickyPistons": true,
+		"threeLadersPerCraft": false
 	},
 	"tweaked": {
-		"shapelessJackOLantern": true,
-		"stairsPerCraft": 4
+		"stairsPerCraft": 4,
+		"shapelessJackOLantern": true
 	},
 	"obtainable": {
-		"craftableCobwebs": false,
-		"craftableGrassBlocks": false,
-		"craftableIronOre": false,
-		"craftableCoalOre": false,
-		"craftableDiamondOre": false,
 		"craftableLapisOre": false,
-		"craftableGoldOre": false,
-		"craftableFire": false
+		"craftableDiamondOre": false,
+		"craftableCoalOre": false,
+		"craftableIronOre": false,
+		"craftableFire": false,
+		"craftableGrassBlocks": false,
+		"craftableCobwebs": false,
+		"craftableGoldOre": false
 	},
 	// Acts as a master switch for all recipe tweaks
 	"enableRecipes": true,
