@@ -4,7 +4,7 @@
 	// Restart required for changes to take effect
 	"enableAuthenticationChanges": true,
 	// Restart required for changes to take effect
-	"enableControlsChanges": true,
+	"enableControlsChanges": false,
 	// Restart required for changes to take effect
 	"enableMojangFixTextOnTitleScreen": false,
 	// Restart required for changes to take effect
@@ -12,11 +12,11 @@
 	// Restart required for changes to take effect
 	"enableDebugMenuWorldSeed": true,
 	// Restart required for changes to take effect
-	"enableInventoryChanges": true,
+	"enableInventoryChanges": false,
 	// Restart required for changes to take effect
 	"enableSkinChanges": true,
 	// Restart required for changes to take effect
-	"prioritizeMojangProvider": false,
+	"prioritizeMojangProvider": true,
 	// Restart required for changes to take effect
 	"useResourcesDownloadURL": true,
 	// Restart required for changes to take effect
@@ -24,11 +24,13 @@
 	// Restart required for changes to take effect
 	"enableMultiplayerServerChanges": true,
 	// Restart required for changes to take effect
-	"enableBitDepthFix": true,
+	"enableBitDepthFix": false,
 	// Restart required for changes to take effect
 	"enableWoodenSignChanges": true,
 	// Restart required for changes to take effect
-	"enableQuitButton": true,
+	"enableQuitButton": false,
 	// Restart required for changes to take effect
-	"enableDebugGraphChanges": true
+	"enableDebugGraphChanges": true,
+	// False=Toggle debug graph with just KEYBIND
+	"enableDebugGraphModernToggle": true
 }
