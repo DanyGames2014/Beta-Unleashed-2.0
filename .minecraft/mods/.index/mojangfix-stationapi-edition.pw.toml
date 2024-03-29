@@ -1,13 +1,13 @@
-filename = 'mojangfixstationapi-1.2.1.jar'
-name = 'MojangFix StationAPI Edition'
-side = 'client'
+filename = 'mojangfixstationapi-1.2.2.jar'
+name = 'MojangFixStationAPI'
+side = 'both'
 
 [download]
-hash = 'a57593b4bc4a2b3af35d2ed4f3d9fcce5351e91469df7e03fcd89d9422cb385d1af7858c7fbfaa26e3abe1d716ec5569d99152bd6befc20ec37c9ee989f12e66'
+hash = '8686589a19123ad6407b1f0de94ab8db155c55fa42ec1ae552cf2f72d29fa3c2db0e103971f6eedbd326a8c89776fa7dbbbe9bd41badb3f0206d5dc484716846'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/cTg2WC1D/versions/meAKKrBB/mojangfixstationapi-1.2.1.jar'
+url = 'https://cdn.modrinth.com/data/cTg2WC1D/versions/my4Y5KP5/mojangfixstationapi-1.2.2.jar'
 
 [update.modrinth]
 mod-id = 'cTg2WC1D'
-version = 'meAKKrBB'
+version = 'my4Y5KP5'
