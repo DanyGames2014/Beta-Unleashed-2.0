@@ -10,3 +10,4 @@
 .minecraft/stats
 .minecraft/options.txt
 *.log
+.DS_Store
