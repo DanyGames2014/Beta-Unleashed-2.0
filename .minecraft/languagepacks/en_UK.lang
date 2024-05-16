@@ -1,0 +1,82 @@
+title|English [United Kingdom]
+author|Mojang, robertfwallis
+version|3500
+splashes|jar:/title/splashes.txt
+bidi|false
+
+#================================#
+#                                #
+#NEW FRONTIER CRAFT LANGUAGE KEYS#
+#                                #
+#================================#
+#
+#This file NEEDS TO BE IN UTF-8 FORMATTING! Do not change this file's formatting to anything else!
+#NOTE TO EDITORS: DO NOT REMOVE, RENAME OR EDIT THIS FILE, OR ANY OTHER DEFAULT LANGUAGE FILE!
+#Make a copy in "languagepacks" and set its name in the options file!
+#Make sure each language has a title and author, as seen on the top rows.
+#Splashes are optional, but are really nice to have.
+#
+#How to define a splashes file:
+#Append "jar:" to the beginning of this line to use the Minecraft jar as the root folder for splashes.
+#If "jar:" is not present, the "languagepacks" folder in your Minecraft instance folder is used as the root.
+
+game.name=New Frontier Craft
+
+tile.cloth.silver.name=Light Grey Wool
+tile.cloth.silver.desc=
+tile.cloth.gray.name=Grey Wool
+tile.cloth.gray.desc=
+
+tile.stainedGlass.silver.name=Light Grey Stained Glass
+tile.stainedGlass.silver.desc=
+tile.stainedGlass.gray.name=Grey Stained Glass
+tile.stainedGlass.gray.desc=
+
+tile.dyedWood.silver.name=Light Grey Stained Planks
+tile.dyedWood.silver.desc=
+tile.dyedWood.gray.name=Grey Stained Planks
+tile.dyedWood.gray.desc=
+
+tile.aluminumOre.name=Aluminium Ore
+
+tile.aluminumBlock.name=Block of Aluminium
+
+
+
+item.cookie.name=Biscuit
+item.cookie.desc=
+item.leggingsCloth.name=Leather Trousers
+item.leggingsCloth.desc=
+item.dyePowder.silver.name=Light Grey Dye
+item.dyePowder.silver.desc=
+item.dyePowder.gray.name=Grey Dye
+item.dyePowder.gray.desc=
+
+
+item.aluminumIngot.name=Aluminium Ingot
+
+
+
+item.aluminumPickaxe.name=Aluminium Pickaxe
+
+item.aluminumShovel.name=Aluminium Shovel
+
+item.aluminumSword.name=Aluminium Sword
+
+item.aluminumHoe.name=Aluminium Hoe
+
+item.aluminumAxe.name=Aluminium Axe
+
+
+
+item.aluminumHelmet.name=Aluminium Helmet
+
+item.aluminumChestplate.name=Aluminium Chestplate
+
+item.aluminumLeggings.name=Aluminium Leggings
+
+item.aluminumBoots.name=Aluminium Boots
+
+
+
+item.wrench.name=Spanner

@@ -1,0 +1,106 @@
+title|Thornglish [United States]
+author|Logan, Telvarost
+splashes|jar:/title/splashes.txt
+
+#================================#
+#                                #
+#NEW FRONTIER CRAFT LANGUAGE KEYS#
+#                                #
+#================================#
+#
+#This file NEEDS TO BE IN UTF-8 FORMATTING! Do not change this file's formatting to anything else!
+#NOTE TO EDITORS: DO NOT REMOVE, RENAME OR EDIT THIS FILE, OR ANY OTHER DEFAULT LANGUAGE FILE!
+#Make a copy in "languagepacks" and set its name in the options file!
+#Make sure each language has a title and author, as seen on the top rows.
+#Splashes are optional, but are really nice to have.
+#
+#How to define a splashes file:
+#Append "jar:" to the beginning of this line to use the Minecraft jar as the root folder for splashes.
+#If "jar:" is not present, the "languagepacks" folder in your Minecraft instance folder is used as the root.
+
+bloodMoon.rise=Þe blood moon rises...
+
+conflictWarning2=Minecraft detected a conflict in þe level save data.
+conflictWarning3=Þis could be caused by two copies of þe game
+conflictWarning4=accessing þe same level.
+conflictWarning5=To prevent level corruption, þe current game has quit.
+
+connect.connecting=Connecting to þe server...
+connect.failed=Failed to connect to þe server
+
+creativeControls.thunder=Þunder:
+
+demo.day.1=Þis demo will last five game days, do your best!
+demo.day.3=Day Þree
+demo.day.5=Þis is your last day!
+demo.day.6=You have passed your fifþ day, use F2 to save a screenshot of your creation
+demo.help.movement=Use %1$s, %2$s, %3$s, %4$s and þe mouse to move around
+demo.reminder=Þe demo time has expired, buy þe game to continue or start a new world!
+
+disconnect.kicked=Was kicked from þe game
+disconnect.loginFailedInfo=Invalid session (Try relogging in þe launcher you use and þen restarting your game)
+
+game.splash.bday=Happy birþday, %s!
+
+gui.chestCart=Minecart wiþ Chest
+gui.err.dismiss=Don't show me þis again
+gui.err.outOfMemoryMsg=Minecraft has run out of memory.\n\nÞis could be caused by a bug in þe game or by þe\nJava Virtual Machine not being allocated enough\nmemory.\n\nTo prevent level corruption, þe opened world has closed.\n\nIf þis happens again, consider giving more RAM to Minecraft.
+gui.err.wrongJavaMsg=Þe version of Java you are using is not supported. NFC is\nonly supported on Java 8, you are running Java %s. you may experience bugs. Keep in mind bug reports under\nunsupported Java versions may be dismissed!   
+gui.world.convert2=Þis may take a while. :)
+gui.world.enterNether=Entering þe Neþer
+gui.world.leaveNether=Leaving þe Neþer
+
+item.anthracite.name=Anþracite
+item.appleLogan.name=Bismuþ Apple
+item.bismuthAxe.name=Bismuþ Axe
+item.bismuthBoots.name=Bismuþ Boots
+item.bismuthChestplate.name=Bismuþ Chestplate
+item.bismuthHelmet.name=Bismuþ Helmet
+item.bismuthHoe.name=Bismuþ Hoe
+item.bismuthIngot.name=Bismuþ Ingot
+item.bismuthLeggings.name=Bismuþ Leggings
+item.bismuthPickaxe.name=Bismuþ Pickaxe
+item.bismuthShovel.name=Bismuþ Shovel
+item.bismuthSword.name=Bismuþ Sword
+item.bootsCloth.name=Leaþer Boots
+item.chestplateCloth.name=Leaþer Tunic
+item.feather.name=Feaþer
+item.helmetCloth.name=Leaþer Cap
+item.leather.name=Leaþer
+item.leggingsCloth.name=Leaþer Pants
+item.minecartChest.name=Minecart wiþ Chest
+item.minecartFurnace.name=Minecart wiþ Furnace
+item.netherAsh.name=Neþer Ash
+
+multiplayer.deleteConfirm1=Are you sure you want to remove þis server?
+
+options.adventureTrees=Smooþ Tree Lighting
+options.ao=Smooþ Lighting
+
+selectWorld.deleteQuestion=Are you sure you want to delete þis world?
+selectWorld.enterSeed=Seed for þe World Generator
+
+multiplayer.mojangfixstationapi.deleteConfirm1=Are you sure you want to remove þis server?
+
+stat.deaths=Number of Deaþs
+
+tile.anthraciteOre.name=Anþracite Ore
+tile.bed.monsters=You may not rest now, þere are monsters nearby...
+tile.bed.occupied=Þis bed is occupied
+tile.bismuthBlock.name=Block of Bismuþ
+tile.bismuthOre.name=Bismuþ Ore
+tile.hellrock.name=Neþerrack
+tile.netherAshOre.name=Neþer Ash Ore
+tile.netherGoldOre.name=Neþer Gold Ore
+tile.netherUraninite.name=Neþer Uraninite Ore
+tile.stoneBrick.Cross-Cut.nether.block.name=Cross-Cut Neþer Block
+tile.stoneBrick.Side-Cut.nether.block.name=Side-Cut Neþer Block
+tile.stoneBrick.Small.nether.bricks.name=Small Neþer Bricks
+tile.stoneBrick.T-Cut.nether.bricks.name=T-Cut Neþer Bricks
+tile.stoneBrick.Upright-Cut.nether.block.name=Upright-Cut Neþer Block
+tile.stoneBrick.nether.block.name=Neþer Block
+
+achievement.bakeCake=Þe Lie
+achievement.buildWorkBench.desc=Craft a workbench wiþ four blocks of planks
+achievement.killCow.desc=Harvest some leaþer
+achievement.nfcWelcome.desc=Find your first copper ore in þe world
