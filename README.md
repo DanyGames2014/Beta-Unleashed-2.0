@@ -1,0 +1,28 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \
+## Beta Unleashed v2.0\
+\
+**By: danygames2014, no_mic_, and Telvarost**\
+\
+Other Contributors: Mongster, all the developers of all mods used, and all texture pack/shaders artists.\
+\
+The Ultimate Minecraft Beta 1.7.3 Instance using Java 17 and Babric. Keeping the gameplay as vanilla as possible (and making any non-vanilla features toggleable), while fixing major bugs, boosting performance, removing/modifying annoying features, and adding many QOL features.\
+\
+**Beta Unleashed Discord Server: https://discord.gg/q3aWwxB2zf**\
+\
+## License\
+\
+**Copyright \'a9 2024 Beta Unleashed Dev Team**\
+\
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0\
+\pard\tx292\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and\
+limitations under the License.}
