@@ -3,8 +3,14 @@
 	"disableCrosshair": false,
 	// 100 = vanilla, 10 = 1 second
 	"chatFadeTime": 100,
-	// 0 = vanilla, 32 = xbox, 200 = top
+	// 0 = vanilla, 32 = xbox, 218 = top
 	"hotbarYPositionOffset": 0,
 	// 50 = vanilla, 100 = default
-	"chatHistorySize": 100
+	"chatHistorySize": 100,
+	// 40 = default
+	"hotbarItemSelectionFadeTime": 40,
+	"putItemSelectionTooltipBelowHotbar": false,
+	"putStatusBarIconsBelowHotbar": false,
+	"enableHotbarItemSelectionTooltips": true,
+	"coordinateDisplay": 0
 }

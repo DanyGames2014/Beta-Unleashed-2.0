@@ -1,7 +1,7 @@
 {
 	"isometricPhotoRotation": 0,
 	// Reload world for changes to take effect
-	"disableRenderingNetherBedrock": false,
+	"disableRenderingNetherBedrock": true,
 	// Default Value: 2240
 	"customResolutionPhotoHeight": 2240,
 	// Default Value: 7680
@@ -9,5 +9,8 @@
 	// Zero degrees recommended for best angle
 	"isometricPhotoRotationOffset": 0,
 	// Default Value: 8
-	"isometricPhotoScale": 8
+	"isometricPhotoScale": 8,
+	// Flips the isometric screenshot horizontally
+	"mirrorIsometricScreenshot": false,
+	"addBasicScreenshotsToClipboard": true
 }

@@ -8,13 +8,13 @@
 		"ohYes": 0,
 		"ohNo": "reee",
 		"secondCategory": {
-			"aIList": [],
-			"aFIList": [],
+			"aFList": [],
 			"aBoolean": false,
 			"aList": [],
+			"aIList": [],
+			"aFIList": [],
 			// Floats are cool.
-			"yayFloatingPoint": 1.0,
-			"aFList": []
+			"yayFloatingPoint": 1.0
 		}
 	},
 	"mpBool": false,

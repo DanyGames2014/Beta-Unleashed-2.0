@@ -1,16 +1,16 @@
 {
 	"betterBurning": {
+		"skeletonBurningArrowChance": 70,
+		"burningEntitySpreadChance": 30,
 		// Master switch for all features here
 		"enableBetterBurning": true,
 		"skeletonsBurningArrows": true,
 		"burningArrowsSetOnFire": true,
-		"burningEntitySpread": true,
-		"skeletonBurningArrowChance": 70,
-		"burningEntitySpreadChance": 30
+		"burningEntitySpread": true
 	},
 	"fastLeafDecay": {
-		"enableFastLeafDecay": false,
+		"minimumDecayTime": 10,
 		"maximumDecayTime": 25,
-		"minimumDecayTime": 10
+		"enableFastLeafDecay": false
 	}
 }

@@ -32,5 +32,9 @@
 	// Restart required for changes to take effect
 	"enableDebugGraphChanges": true,
 	// False=Toggle debug graph with just KEYBIND
-	"enableDebugGraphModernToggle": true
+	"enableDebugGraphModernToggle": true,
+	// Hides IP addresses for the server list only
+	"disableServerListIpAddresses": false,
+	// Restart required for changes to take effect
+	"raiseSlimSkinShoulders": false
 }

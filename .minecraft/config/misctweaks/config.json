@@ -23,5 +23,15 @@
 	"disableTrampleFarmlandWhenBarefoot": false,
 	"disableTntExplosionBreakingBlocks": false,
 	// 0 = disabled, 5 = modern drop chance
-	"appleDropChance": 0
+	"appleDropChance": 0,
+	// Only works if setting is enabled above
+	"zombieDropItem": 0,
+	// Chance is the same as seeds from tall grass
+	"enableRandomStickDropFromDeadBushes": false,
+	// Restart required for changes to take effect
+	"enableZombieDropItem": false,
+	"enableShearsCollectDeadBush": false,
+	"enableShearsCollectTallGrass": false,
+	// Restart required for changes to take effect
+	"enableDoubleStoneSlabCraftingRecipe": false
 }
