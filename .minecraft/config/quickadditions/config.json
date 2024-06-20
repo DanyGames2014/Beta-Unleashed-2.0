@@ -1,0 +1,37 @@
+{
+	"mainMenuThemeOverridesBGM": false,
+	"bedsSpeedUpNightRatherThanSkipIt": false,
+	// Plays 'mainmenu' song file if one is found
+	"mainMenuThemeEnabled": true,
+	"handSwingClickToExitBedsEnabled": false,
+	// Restart required for changes to take effect
+	"disableDefaultMinecraftBGM": false,
+	// Restart required for changes to take effect
+	"ENABLE_SOUL_SAND_RECIPE": false,
+	// Game will not pause when tabbing away
+	"forceDisplayActive": false,
+	"MISSING_ACHIEVEMENTS_CONFIG": {
+		"CRAFT_WORKBENCH": false,
+		"COOK_FISH": false,
+		"KILL_ENEMY": false,
+		"ON_A_RAIL": false,
+		"FLY_PIG": false,
+		"CRAFT_PICKAXE": false,
+		"MINE_WOOD": false,
+		"AQUIRE_IRON": false,
+		"OPEN_INVENTORY": false,
+		"MAKE_BREAD": false,
+		"CRAFT_HOE": false,
+		"KILL_COW": false,
+		"BAKE_CAKE": false,
+		"CRAFT_BETTER_PICKAXE": false,
+		"CRAFT_FURNACE": false,
+		"CRAFT_SWORD": false
+	},
+	// Restart required for changes to take effect
+	"SOUL_SAND_OUTPUT": 4,
+	// Default Value: 12000
+	"musicCoundownRandomIntervalMin": 12000,
+	// Default Value: 12000
+	"musicCoundownRandomIntervalMax": 12000
+}
