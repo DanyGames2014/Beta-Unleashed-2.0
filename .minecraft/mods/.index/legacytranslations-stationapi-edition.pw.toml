@@ -1,0 +1,13 @@
+filename = 'LegacyTranslations-1.2.0.jar'
+name = 'LegacyTranslations Babric Edition'
+side = 'both'
+
+[download]
+hash = '1f64338ec5d22f935241cc1f6320afd85365277f0a8b894f788aea66155723712380354811c27b0ff12b934bc44415e2f1e6e8a45cb4a21f6f73af306cafb995'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MexYycA5/versions/QyO0pwBS/LegacyTranslations-1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'MexYycA5'
+version = 'QyO0pwBS'

@@ -1,0 +1,13 @@
+filename = 'MiscTweaks-4.7.1.jar'
+name = 'MiscTweaks StationAPI'
+side = 'both'
+
+[download]
+hash = 'e291e7932465ea24ae4c210c975e3d5b48adf7af50a2bcb0202eb6f48b1e857c8e68b79ea681d460ed0b0cf687c4dd7381e7782681b7fd5a06b57b060a95e237'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vP3fLmO7/versions/lwWAUKVR/MiscTweaks-4.7.1.jar'
+
+[update.modrinth]
+mod-id = 'vP3fLmO7'
+version = 'lwWAUKVR'

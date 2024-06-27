@@ -1,0 +1,13 @@
+filename = 'mojangfixstationapi-2.0.1.jar'
+name = 'MojangFix StationAPI Edition'
+side = 'client'
+
+[download]
+hash = '97933f0a8aaa0998339417b59eca6066cabef2cc80e2b4a217e190856c9cf9c8e34f57402e1471059d0b51c1b8a951efa8ba865992f3df937d62e730f185bcf4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cTg2WC1D/versions/S79ZPX2n/mojangfixstationapi-2.0.1.jar'
+
+[update.modrinth]
+mod-id = 'cTg2WC1D'
+version = 'S79ZPX2n'

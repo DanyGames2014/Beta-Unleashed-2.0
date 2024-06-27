@@ -1,0 +1,13 @@
+filename = 'gambac-1.1.0.jar'
+name = 'Gambac'
+side = 'client'
+
+[download]
+hash = 'ac40d4e7212dde972ec9ca43eef23ad43eab8b988360b2bc2e1cb370b1e21af7d4e9a7f8bb2a62335f379b526d3adfc55a6c9b182f4e7ed79030c0ec36dda725'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NeRVQHnE/versions/GZnDTpLp/gambac-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'NeRVQHnE'
+version = 'GZnDTpLp'

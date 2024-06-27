@@ -1,0 +1,13 @@
+filename = 'QuickAdditions-1.7.1.jar'
+name = 'QuickAdditions StationAPI'
+side = 'both'
+
+[download]
+hash = 'e03d033af0a0e4323a3ed8c28a808a3253bf76e6e07f030d09b856f1b2bf6f7e5f1a383bc26d3e2492c7b9769978202f466a283e0d633ec94f7253e066a8cd22'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/50K1w3z1/versions/vbXdr93v/QuickAdditions-1.7.1.jar'
+
+[update.modrinth]
+mod-id = '50K1w3z1'
+version = 'vbXdr93v'
