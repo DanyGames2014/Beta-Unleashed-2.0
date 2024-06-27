@@ -1,13 +1,13 @@
-filename = 'UniTweaks-0.13.0.jar'
+filename = 'UniTweaks-0.13.1.jar'
 name = 'UniTweaks'
-side = 'client'
+side = 'both'
 
 [download]
-hash = '3df420d731cb91c9a276f7ca899b7b442c07cbe3f5cc2a9e26b8da95b65aeec82aeadca4e7bcf562a9aed941fe0d26a8c852d7be33d8e6482be7a149bc604940'
+hash = 'a6b652a38fdaabf4f48fb3d0a538b53bd896b673be20352f839908bf7f85f5e8db67fd5a8b831ceaa95622f87f92c31099217113dc9149290ba5881879fcf701'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/1pyTGaA4/versions/XjSP3a13/UniTweaks-0.13.0.jar'
+url = 'https://cdn.modrinth.com/data/1pyTGaA4/versions/TPkVPpyJ/UniTweaks-0.13.1.jar'
 
 [update.modrinth]
 mod-id = '1pyTGaA4'
-version = 'XjSP3a13'
+version = 'TPkVPpyJ'
