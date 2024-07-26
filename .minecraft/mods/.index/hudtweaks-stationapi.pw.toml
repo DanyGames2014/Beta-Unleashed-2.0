@@ -1,13 +1,13 @@
-filename = 'HudTweaks-1.5.0.jar'
-name = 'HudTweaks StationAPI'
-side = 'client'
+filename = 'HudTweaks-1.5.1.jar'
+name = 'HudTweaks'
+side = 'both'
 
 [download]
-hash = '80a0d719f81404d8db7b3796fc1119bd76dcc152e06491406e2df68aa561c3d07ae8158026daee6e81e36b211417bd3862feb384334302ad38df2ee81ea57e4e'
+hash = 'ed856b4af935de6543b40d05d9079cc619061b9a20cf6bd2e92617732cd0b5e9f446437f341a7ed117f84676cab1f524869f4661cdb30d6ab5862143fd30c2b8'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/F5B9HnVw/versions/dNajWyPo/HudTweaks-1.5.0.jar'
+url = 'https://cdn.modrinth.com/data/F5B9HnVw/versions/NERM48ZO/HudTweaks-1.5.1.jar'
 
 [update.modrinth]
 mod-id = 'F5B9HnVw'
-version = 'dNajWyPo'
+version = 'NERM48ZO'
