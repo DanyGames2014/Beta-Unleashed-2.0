@@ -8,6 +8,5 @@
 .minecraft/screenshots
 .minecraft/server-resource-packs
 .minecraft/stats
-.minecraft/options.txt
 *.log
 .DS_Store

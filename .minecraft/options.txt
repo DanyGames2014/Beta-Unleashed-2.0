@@ -1,0 +1,63 @@
+music:1.0
+sound:1.0
+invertYMouse:false
+mouseSensitivity:0.5
+viewDistance:0
+guiScale:0
+bobView:true
+anaglyph3d:false
+advancedOpengl:false
+fpsLimit:1
+difficulty:2
+fancyGraphics:true
+ao:true
+skin:Default
+lastServer:
+key_key.forward:17
+key_key.left:30
+key_key.back:31
+key_key.right:32
+key_key.jump:57
+key_key.sneak:42
+key_key.drop:16
+key_key.inventory:18
+key_key.chat:20
+key_key.fog:33
+key_Custom Photo:66
+key_Isometric Photo:65
+key_Toggle Freecam:46
+key_Toggle Player Movement:47
+key_Change Freecam Speed:48
+key_Save Or Load Camera Position:49
+key_Open Camera Position Gui:50
+key_Toggle HMI:24
+key_Debug Graph:12
+key_key.unitweaks.dismount:42
+key_key.unitweaks.zoom:29
+key_key.unitweaks.photo_mode:25
+key_key.unitweaks.hide_hud:59
+key_key.unitweaks.take_screenshot:60
+key_key.unitweaks.debug_hud:61
+key_key.unitweaks.third_person:63
+key_key.unitweaks.cinematic_camera:64
+key_key.unitweaks.toggle_fullscreen:87
+key_key.unitweaks.release_mouse:56
+key_key.unitweaks.hotbar_1:2
+key_key.unitweaks.hotbar_2:3
+key_key.unitweaks.hotbar_3:4
+key_key.unitweaks.hotbar_4:5
+key_key.unitweaks.hotbar_5:6
+key_key.unitweaks.hotbar_6:7
+key_key.unitweaks.hotbar_7:8
+key_key.unitweaks.hotbar_8:9
+key_key.unitweaks.hotbar_9:10
+key_key.unitweaks.panorama_screenshot:0
+key_playerList:15
+fov:0.0
+fog_density:0.5
+clouds:true
+cloud_height:0.0
+fps_limit: 0.4
+render_distance: 0.2
+brightness:0.0
+soundPack:
