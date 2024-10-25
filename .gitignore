@@ -10,3 +10,4 @@
 .minecraft/stats
 *.log
 .DS_Store
+mmc-pack.json
