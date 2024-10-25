@@ -3,7 +3,7 @@
 		"skeletonBurningArrowChance": 70,
 		"burningEntitySpreadChance": 30,
 		// Master switch for all features here
-		"enableBetterBurning": true,
+		"enableBetterBurning": false,
 		"skeletonsBurningArrows": true,
 		"burningArrowsSetOnFire": true,
 		"burningEntitySpread": true
