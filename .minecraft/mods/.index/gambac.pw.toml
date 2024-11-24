@@ -1,0 +1,13 @@
+filename = 'gambac-1.1.1.jar'
+name = 'Gambac [deAWT & M1 Fix]'
+side = 'client'
+
+[download]
+hash = '45de6b2d09cbe4ef01718723e53300b33ccc28e5ee33aa01125d33f57ccc9ba1b21eb2b61f83b8c4487c2ed4b7b88868445b2058ece90977815efbdccb533e46'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NeRVQHnE/versions/mBVNvriG/gambac-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'NeRVQHnE'
+version = 'mBVNvriG'

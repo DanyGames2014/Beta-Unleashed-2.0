@@ -1,0 +1,13 @@
+filename = 'BetterScreenshots-1.6.0.jar'
+name = 'BetterScreenshots StationAPI'
+side = 'client'
+
+[download]
+hash = 'f7a5c187f7e587091b9cd327536a575093f58f19e4159d7ebe11896477250e0bcab86e8f84441f8b46d5c873944e47ea66226b703cf19b0b4bcc550198407bcf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IGVaFvS9/versions/k2kMjIcI/BetterScreenshots-1.6.0.jar'
+
+[update.modrinth]
+mod-id = 'IGVaFvS9'
+version = 'k2kMjIcI'
