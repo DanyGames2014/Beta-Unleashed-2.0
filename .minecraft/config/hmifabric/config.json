@@ -5,17 +5,17 @@
 	"mpTimeNightCommand": "/time set 13000",
 	"mpRainONCommand": "",
 	"mpGiveCommand": "/give {0} {1} {2}",
-	"overlayEnabled": false,
+	"overlayEnabled": true,
 	"recipeViewerDraggableGui": false,
 	"scrollInverted": false,
 	// Shows items with null names. Can cause crashes with poorly made mods.
 	"hideNullNames": false,
-	"cheatsEnabled": false,
+	"cheatsEnabled": true,
 	// Enables some extra tooltips. Breaks relatively easily, but shouldn't cause crashes.
 	"devMode": false,
 	"showItemIDs": false,
 	"centredSearchBar": false,
 	"fastSearch": false,
-	"recipeViewerGuiWidth": 251,
-	"recipeViewerGuiHeight": 134
+	"recipeViewerGuiWidth": 176,
+	"recipeViewerGuiHeight": 86
 }
