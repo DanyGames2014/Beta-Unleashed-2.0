@@ -7,20 +7,20 @@
 #####################################################
 
 enableChatScroll: true
-putItemSelectionTooltipBelowHotbar: false
+putStatusBarIconsBelowHotbar: false
 drawXboxXAndYButtons: false
 enableHotbarItemSelectionTooltips: true
-putStatusBarIconsBelowHotbar: false
 disableCrosshair: false
-
-# 0 = vanilla, 32 = xbox, 218 = top
-hotbarYPositionOffset: 0
+putItemSelectionTooltipBelowHotbar: false
 
 # 50 = vanilla, 100 = default
 chatHistorySize: 100
 
 # 100 = vanilla, 10 = 1 second
 chatFadeTime: 100
+
+# 0 = vanilla, 32 = xbox, 218 = top
+hotbarYPositionOffset: 0
 
 # 40 = default
 hotbarItemSelectionFadeTime: 40

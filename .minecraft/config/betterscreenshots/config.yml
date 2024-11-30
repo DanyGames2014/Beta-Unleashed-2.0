@@ -13,15 +13,15 @@ disableRenderingNetherBedrock: true
 mirrorIsometricScreenshot: false
 addBasicScreenshotsToClipboard: true
 
+# Default Value: 7680
+customResolutionPhotoWidth: 7680
+
 # Default Value: 8
 isometricPhotoScale: 8
-
-# Zero degrees recommended for best angle
-isometricPhotoRotationOffset: 0
 
 # Default Value: 2240
 customResolutionPhotoHeight: 2240
 
-# Default Value: 7680
-customResolutionPhotoWidth: 7680
+# Zero degrees recommended for best angle
+isometricPhotoRotationOffset: 0
 isometricPhotoRotation: 0

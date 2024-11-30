@@ -7,54 +7,54 @@
 #####################################################
 
 # Restart required for changes to take effect
-enableControlsChanges: false
-
-# Restart required for changes to take effect
 enableWoodenSignChanges: true
-renderCape: true
-
-# Restart required for changes to take effect
-raiseSlimSkinShoulders: false
-
-# Restart required for changes to take effect
-useResourcesDownloadURL: true
-
-# Restart required for changes to take effect
-enableInventoryChanges: false
-
-# Restart required for changes to take effect
-enableBitDepthFix: false
-
-# False=Toggle debug graph with just KEYBIND
-enableDebugGraphModernToggle: true
 
 # Hides IP addresses for the server list only
 disableServerListIpAddresses: false
 
 # Restart required for changes to take effect
-enableDeathScreenScoreFix: false
-
-# Restart required for changes to take effect
-enableMultiplayerServerChanges: true
-
-# Restart required for changes to take effect
-enableDebugGraphChanges: true
-
-# Restart required for changes to take effect
-enableAuthenticationChanges: true
+enableInventoryChanges: false
 
 # Restart required for changes to take effect
 enableQuitButton: false
 
 # Restart required for changes to take effect
 enableChatChanges: true
+enableMojangFixTextOnTitleScreen: false
+
+# Restart required for changes to take effect
+enableDeathScreenScoreFix: false
+
+# Restart required for changes to take effect
+enableDebugGraphChanges: true
+
+# Restart required for changes to take effect
+enableBitDepthFix: false
+
+# Restart required for changes to take effect
+enableMultiplayerServerChanges: true
 
 # Restart required for changes to take effect
 enableSkinChanges: true
 
 # Restart required for changes to take effect
+useResourcesDownloadURL: true
+
+# Restart required for changes to take effect
+enableControlsChanges: false
+renderCape: true
+
+# False=Toggle debug graph with just KEYBIND
+enableDebugGraphModernToggle: true
+
+# Restart required for changes to take effect
 enableDebugMenuWorldSeed: true
-enableMojangFixTextOnTitleScreen: false
+
+# Restart required for changes to take effect
+raiseSlimSkinShoulders: false
+
+# Restart required for changes to take effect
+enableAuthenticationChanges: true
 
 # Restart required for changes to take effect
 RESOURCES_DOWNLOAD_URL: "http://s3.betacraft.uk:11705/MinecraftResources/"

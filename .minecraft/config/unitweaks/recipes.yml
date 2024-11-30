@@ -6,33 +6,33 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-modern:
-  oneStonePerButton: true
-  modernFenceRecipe: false
-  shapelessMushroomStew: true
-  snowLayerRecipe: true
-  shapelessStickyPistons: true
-  sixSlabsPerCraft: false
-  shapelessChestMinecart: true
-  booksRequireLeather: false
-  shapelessFurnaceMinecart: true
-  shapelessFlintAndSteel: true
-  woolRedyeing: true
-  threeLadersPerCraft: false
-obtainable:
-  craftableCobwebs: false
-  craftableIronOre: false
-  craftableGoldOre: false
-  craftableGrassBlocks: false
-  craftableFire: false
-  craftableLapisOre: false
-  craftableDiamondOre: false
-  craftableCoalOre: false
-tweaked:
-  shapelessJackOLantern: true
-  stairsPerCraft: 4
-furnaceFuels: true
 toolRepair: true
+furnaceFuels: true
 
 # Acts as a master switch for all recipe tweaks
 enableRecipes: true
+tweaked:
+  shapelessJackOLantern: true
+  stairsPerCraft: 4
+modern:
+  shapelessFurnaceMinecart: true
+  sixSlabsPerCraft: false
+  oneStonePerButton: true
+  modernFenceRecipe: false
+  woolRedyeing: true
+  snowLayerRecipe: true
+  shapelessMushroomStew: true
+  shapelessStickyPistons: true
+  shapelessChestMinecart: true
+  booksRequireLeather: false
+  shapelessFlintAndSteel: true
+  threeLadersPerCraft: false
+obtainable:
+  craftableDiamondOre: false
+  craftableFire: false
+  craftableLapisOre: false
+  craftableGoldOre: false
+  craftableCoalOre: false
+  craftableGrassBlocks: false
+  craftableCobwebs: false
+  craftableIronOre: false
