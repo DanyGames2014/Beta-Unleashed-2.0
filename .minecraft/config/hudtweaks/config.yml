@@ -6,12 +6,16 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
+coordinateDisplay: 0
+putItemSelectionTooltipBelowHotbar: false
+drawXboxXAndYButtons: false
+disableCrosshair: false
 enableChatScroll: true
 putStatusBarIconsBelowHotbar: false
-drawXboxXAndYButtons: false
 enableHotbarItemSelectionTooltips: true
-disableCrosshair: false
-putItemSelectionTooltipBelowHotbar: false
+
+# 0 = vanilla, 32 = xbox, 218 = top
+hotbarYPositionOffset: 0
 
 # 50 = vanilla, 100 = default
 chatHistorySize: 100
@@ -19,9 +23,5 @@ chatHistorySize: 100
 # 100 = vanilla, 10 = 1 second
 chatFadeTime: 100
 
-# 0 = vanilla, 32 = xbox, 218 = top
-hotbarYPositionOffset: 0
-
 # 40 = default
 hotbarItemSelectionFadeTime: 40
-coordinateDisplay: 0

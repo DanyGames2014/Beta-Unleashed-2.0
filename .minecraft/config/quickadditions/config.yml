@@ -8,50 +8,50 @@
 
 bedsSpeedUpNightRatherThanSkipIt: false
 
-# Game will not pause when tabbing away
-forceDisplayActive: false
+# Restart required for changes to take effect
+disableDefaultMinecraftBGM: false
 
 # Restart required for changes to take effect
 ENABLE_SOUL_SAND_RECIPE: false
-enableAlwaysSnowAboveSetYLevel: false
-handSwingClickToExitBedsEnabled: false
-mainMenuThemeOverridesBGM: false
+
+# Game will not pause when tabbing away
+forceDisplayActive: false
 
 # Plays 'mainmenu' song file if one is found
 mainMenuThemeEnabled: true
-
-# Restart required for changes to take effect
-disableDefaultMinecraftBGM: false
-MAX_SPAWN_CAPACITY_PASSIVE: 15
-
-# Default Value: 12000
-musicCoundownRandomIntervalMin: 12000
-
-# Default Value: 12000
-musicCoundownRandomIntervalMax: 12000
+enableAlwaysSnowAboveSetYLevel: false
+handSwingClickToExitBedsEnabled: false
+mainMenuThemeOverridesBGM: false
 MAX_SPAWN_CAPACITY_SQUID: 5
+alwaysSnowAboveThisYLevel: 96
 
 # Restart required for changes to take effect
 SOUL_SAND_OUTPUT: 4
 
+# Default Value: 12000
+musicCoundownRandomIntervalMax: 12000
+MAX_SPAWN_CAPACITY_PASSIVE: 15
+MAX_SPAWN_CAPACITY_MONSTER: 70
+
 # Does not effect ghasts, wolves cap at 8
 SPAWN_GROUP_SIZE: 4
-alwaysSnowAboveThisYLevel: 96
-MAX_SPAWN_CAPACITY_MONSTER: 70
+
+# Default Value: 12000
+musicCoundownRandomIntervalMin: 12000
 MISSING_ACHIEVEMENTS_CONFIG:
-  CRAFT_PICKAXE: false
-  FLY_PIG: false
-  CRAFT_FURNACE: false
-  OPEN_INVENTORY: false
-  BAKE_CAKE: false
-  CRAFT_BETTER_PICKAXE: false
-  KILL_COW: false
-  MINE_WOOD: false
-  MAKE_BREAD: false
-  KILL_ENEMY: false
   CRAFT_SWORD: false
-  COOK_FISH: false
-  CRAFT_WORKBENCH: false
-  CRAFT_HOE: false
+  KILL_COW: false
+  CRAFT_PICKAXE: false
   AQUIRE_IRON: false
+  KILL_ENEMY: false
+  BAKE_CAKE: false
+  CRAFT_HOE: false
   ON_A_RAIL: false
+  CRAFT_WORKBENCH: false
+  OPEN_INVENTORY: false
+  CRAFT_BETTER_PICKAXE: false
+  MAKE_BREAD: false
+  MINE_WOOD: false
+  COOK_FISH: false
+  CRAFT_FURNACE: false
+  FLY_PIG: false

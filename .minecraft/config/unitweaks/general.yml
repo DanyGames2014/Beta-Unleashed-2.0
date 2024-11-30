@@ -6,7 +6,7 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
+tcpNoDelay: true
 rawInput: false
 pauseOnLostFocus: true
-tcpNoDelay: true
 autosaveInterval: 1

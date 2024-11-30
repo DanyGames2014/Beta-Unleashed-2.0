@@ -6,6 +6,8 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
+improvedControlsMenu: true
+disableDebugEntityIdTags: true
 hideAchievementToast: false
 
 # Done button will lead to Game Menu instead of unpausing
@@ -13,8 +15,6 @@ achievementBackToMenu: true
 
 # Shows Quit Button on the Main Menu
 showQuitButton: true
-improvedControlsMenu: true
-disableDebugEntityIdTags: true
 panoramaConfig:
   enablePanorma: true
   blurBackground: true
@@ -22,22 +22,22 @@ panoramaConfig:
   panoramaFolder: "glacier"
 videoSettingsConfig:
   # Requires a restart to take effect
-  guiScaleSlider: true
+  cloudHeightSlider: true
   # Requires a restart to take effect
   renderDistanceSlider: true
   # Requires a restart to take effect
-  brightnessSlider: true
+  fpsLimitSlider: true
   # Requires a restart to take effect
   cloudsToggle: true
   # Requires a restart to take effect
-  fpsLimitSlider: true
+  guiScaleSlider: true
   # Requires a restart to take effect
-  cloudHeightSlider: true
+  brightnessSlider: true
   # Requires a restart to take effect
   fogDensitySlider: true
 versionTextConfig:
-  unlicensedCopy: false
   showVersionTextIngame: true
+  unlicensedCopy: false
   enableCustomVersionText: false
   # Only has effect if custom version text is enabled
   customVersionText: "Minecraft Beta 1.7.3 (UniTweaks)"

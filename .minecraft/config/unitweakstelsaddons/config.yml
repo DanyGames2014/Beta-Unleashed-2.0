@@ -6,35 +6,35 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
+addTotalPlayTimeToDebugOverlay: true
 addBiomeToDebugOverlay: true
 boatLogoutLoginFixesEnabled: true
+milkSquids: false
 pigsDropBrownMushrooms: false
-addDayCounterToDebugOverlay: true
-allowCraftingInventorySlots: false
 
 # Restart required for changes to take effect
 slabPlacementFixesEnabled: true
-milkSquids: false
-addTotalPlayTimeToDebugOverlay: true
+addDayCounterToDebugOverlay: true
 
 # Calculated at player's eye level
 addLightLevelToDebugOverlay: true
+allowCraftingInventorySlots: false
 SHOVELS_CONFIG:
   enableShovelsEffectiveOnSoulSand: true
 PARTICLES_CONFIG:
-  disableLavaEmberParticle: false
-  disableSnowShovelParticle: false
-  disablePortalParticle: false
+  disableExplosionParticle: false
   disableFlameParticle: false
-  disableSlimeParticle: false
-  disableWaterBubbleParticle: false
-  disableFireSmokeParticle: false
-  disableWaterSplashParticle: false
+  disableSnowballParticle: false
   disableAllParticles: false
+  disableNoteParticle: false
+  disableSnowShovelParticle: false
+  disableFireSmokeParticle: false
+  disableSlimeParticle: false
+  disableFootstepParticle: false
+  disableLavaEmberParticle: false
+  disableWaterBubbleParticle: false
   disableRedDustParticle: false
   disableHeartParticle: false
   disableLargeFireSmokeParticle: false
-  disableFootstepParticle: false
-  disableNoteParticle: false
-  disableExplosionParticle: false
-  disableSnowballParticle: false
+  disablePortalParticle: false
+  disableWaterSplashParticle: false
