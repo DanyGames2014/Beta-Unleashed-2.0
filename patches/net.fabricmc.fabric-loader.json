@@ -2,44 +2,36 @@
     "formatVersion": 1,
     "libraries": [
         {
-            "name": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
+            "name": "net.fabricmc:sponge-mixin:0.15.3+mixin.0.8.7",
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "net.fabricmc:sponge-mixin:0.12.5+mixin.0.8.5",
+            "name": "io.github.llamalad7:mixinextras-fabric:0.4.1",
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "net.fabricmc:tiny-remapper:0.8.2",
+            "name": "org.ow2.asm:asm:9.7.1",
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "net.fabricmc:access-widener:2.1.0",
+            "name": "org.ow2.asm:asm-analysis:9.7.1",
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "org.ow2.asm:asm:9.6",
+            "name": "org.ow2.asm:asm-commons:9.7.1",
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "org.ow2.asm:asm-analysis:9.6",
+            "name": "org.ow2.asm:asm-tree:9.7.1",
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "org.ow2.asm:asm-commons:9.6",
+            "name": "org.ow2.asm:asm-util:9.7.1",
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "org.ow2.asm:asm-tree:9.6",
+            "name": "net.fabricmc:fabric-loader:0.16.7",
             "url": "https://maven.fabricmc.net/"
-        },
-        {
-            "name": "org.ow2.asm:asm-util:9.6",
-            "url": "https://maven.fabricmc.net/"
-        },
-        {
-            "name": "babric:fabric-loader:0.14.24-babric.1",
-            "url": "https://maven.glass-launcher.net/babric/"
         }
     ],
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
@@ -51,5 +43,5 @@
     ],
     "type": "release",
     "uid": "net.fabricmc.fabric-loader",
-    "version": "0.14.24-babric.1"
+    "version": "0.16.7"
 }
