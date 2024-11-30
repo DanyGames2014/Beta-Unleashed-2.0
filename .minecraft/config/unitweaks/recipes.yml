@@ -6,33 +6,33 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-toolRepair: true
-furnaceFuels: true
-
-# Acts as a master switch for all recipe tweaks
-enableRecipes: true
+modern:
+  oneStonePerButton: true
+  modernFenceRecipe: false
+  shapelessMushroomStew: true
+  snowLayerRecipe: true
+  shapelessStickyPistons: true
+  sixSlabsPerCraft: false
+  shapelessChestMinecart: true
+  booksRequireLeather: false
+  shapelessFurnaceMinecart: true
+  shapelessFlintAndSteel: true
+  woolRedyeing: true
+  threeLadersPerCraft: false
+obtainable:
+  craftableCobwebs: false
+  craftableIronOre: false
+  craftableGoldOre: false
+  craftableGrassBlocks: false
+  craftableFire: false
+  craftableLapisOre: false
+  craftableDiamondOre: false
+  craftableCoalOre: false
 tweaked:
   shapelessJackOLantern: true
   stairsPerCraft: 4
-obtainable:
-  craftableCoalOre: false
-  craftableIronOre: false
-  craftableDiamondOre: false
-  craftableGrassBlocks: false
-  craftableCobwebs: false
-  craftableFire: false
-  craftableLapisOre: false
-  craftableGoldOre: false
-modern:
-  threeLadersPerCraft: false
-  shapelessMushroomStew: true
-  shapelessStickyPistons: true
-  shapelessFlintAndSteel: true
-  modernFenceRecipe: false
-  shapelessFurnaceMinecart: true
-  woolRedyeing: true
-  sixSlabsPerCraft: false
-  oneStonePerButton: true
-  snowLayerRecipe: true
-  booksRequireLeather: false
-  shapelessChestMinecart: true
+furnaceFuels: true
+toolRepair: true
+
+# Acts as a master switch for all recipe tweaks
+enableRecipes: true

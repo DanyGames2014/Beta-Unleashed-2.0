@@ -6,7 +6,34 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
+videoSettingsConfig:
+  # Requires a restart to take effect
+  cloudsToggle: true
+  # Requires a restart to take effect
+  fogDensitySlider: true
+  # Requires a restart to take effect
+  renderDistanceSlider: true
+  # Requires a restart to take effect
+  guiScaleSlider: true
+  # Requires a restart to take effect
+  cloudHeightSlider: true
+  # Requires a restart to take effect
+  brightnessSlider: true
+  # Requires a restart to take effect
+  fpsLimitSlider: true
+versionTextConfig:
+  showVersionTextIngame: true
+  enableCustomVersionText: false
+  unlicensedCopy: false
+  # Only has effect if custom version text is enabled
+  customVersionText: "Minecraft Beta 1.7.3 (UniTweaks)"
+panoramaConfig:
+  enablePanorma: true
+  blurBackground: true
+  # Default included : beta18, glacier
+  panoramaFolder: "glacier"
 improvedControlsMenu: true
+disableDebugEntityIdTags: true
 
 # Shows Quit Button on the Main Menu
 showQuitButton: true
@@ -14,30 +41,3 @@ showQuitButton: true
 # Done button will lead to Game Menu instead of unpausing
 achievementBackToMenu: true
 hideAchievementToast: false
-disableDebugEntityIdTags: true
-videoSettingsConfig:
-  # Requires a restart to take effect
-  renderDistanceSlider: true
-  # Requires a restart to take effect
-  brightnessSlider: true
-  # Requires a restart to take effect
-  cloudsToggle: true
-  # Requires a restart to take effect
-  cloudHeightSlider: true
-  # Requires a restart to take effect
-  fogDensitySlider: true
-  # Requires a restart to take effect
-  fpsLimitSlider: true
-  # Requires a restart to take effect
-  guiScaleSlider: true
-versionTextConfig:
-  enableCustomVersionText: false
-  unlicensedCopy: false
-  showVersionTextIngame: true
-  # Only has effect if custom version text is enabled
-  customVersionText: "Minecraft Beta 1.7.3 (UniTweaks)"
-panoramaConfig:
-  blurBackground: true
-  enablePanorma: true
-  # Default included : beta18, glacier
-  panoramaFolder: "glacier"

@@ -6,52 +6,52 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-enableAlwaysSnowAboveSetYLevel: false
-handSwingClickToExitBedsEnabled: false
-
-# Game will not pause when tabbing away
-forceDisplayActive: false
+MISSING_ACHIEVEMENTS_CONFIG:
+  MAKE_BREAD: false
+  OPEN_INVENTORY: false
+  MINE_WOOD: false
+  KILL_COW: false
+  FLY_PIG: false
+  CRAFT_PICKAXE: false
+  BAKE_CAKE: false
+  COOK_FISH: false
+  CRAFT_BETTER_PICKAXE: false
+  AQUIRE_IRON: false
+  CRAFT_FURNACE: false
+  CRAFT_HOE: false
+  CRAFT_WORKBENCH: false
+  KILL_ENEMY: false
+  ON_A_RAIL: false
+  CRAFT_SWORD: false
+mainMenuThemeOverridesBGM: false
+bedsSpeedUpNightRatherThanSkipIt: false
 
 # Plays 'mainmenu' song file if one is found
 mainMenuThemeEnabled: true
-bedsSpeedUpNightRatherThanSkipIt: false
-mainMenuThemeOverridesBGM: false
+handSwingClickToExitBedsEnabled: false
+enableAlwaysSnowAboveSetYLevel: false
 
 # Restart required for changes to take effect
 disableDefaultMinecraftBGM: false
 
 # Restart required for changes to take effect
 ENABLE_SOUL_SAND_RECIPE: false
-MAX_SPAWN_CAPACITY_PASSIVE: 15
 
-# Restart required for changes to take effect
-SOUL_SAND_OUTPUT: 4
-MAX_SPAWN_CAPACITY_MONSTER: 70
+# Game will not pause when tabbing away
+forceDisplayActive: false
 
 # Does not effect ghasts, wolves cap at 8
 SPAWN_GROUP_SIZE: 4
-MAX_SPAWN_CAPACITY_SQUID: 5
-
-# Default Value: 12000
-musicCoundownRandomIntervalMax: 12000
+MAX_SPAWN_CAPACITY_PASSIVE: 15
+MAX_SPAWN_CAPACITY_MONSTER: 70
 alwaysSnowAboveThisYLevel: 96
 
 # Default Value: 12000
+musicCoundownRandomIntervalMax: 12000
+
+# Restart required for changes to take effect
+SOUL_SAND_OUTPUT: 4
+MAX_SPAWN_CAPACITY_SQUID: 5
+
+# Default Value: 12000
 musicCoundownRandomIntervalMin: 12000
-MISSING_ACHIEVEMENTS_CONFIG:
-  MINE_WOOD: false
-  FLY_PIG: false
-  KILL_ENEMY: false
-  CRAFT_SWORD: false
-  KILL_COW: false
-  CRAFT_WORKBENCH: false
-  COOK_FISH: false
-  CRAFT_FURNACE: false
-  MAKE_BREAD: false
-  BAKE_CAKE: false
-  ON_A_RAIL: false
-  CRAFT_PICKAXE: false
-  AQUIRE_IRON: false
-  CRAFT_HOE: false
-  OPEN_INVENTORY: false
-  CRAFT_BETTER_PICKAXE: false

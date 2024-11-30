@@ -9,8 +9,8 @@
 disableTallGrassGeneration: false
 punchSheepForWool: false
 boatElevators: false
-ladderGaps: false
 minecartBoosters: false
-punchTntToIgnite: false
 disableDeadBushGeneration: false
+ladderGaps: false
+punchTntToIgnite: false
 hoeGrassForSeeds: false

@@ -10,23 +10,23 @@ MODERN_MINECRAFT_CONFIG:
   EnableRightClickDrag: true
   LMBPreferShiftClick: true
   RMBPreferShiftClick: true
-  EnableLeftClickDrag: true
-  LCtrlStackDrop: true
   EnableDragGraphics: true
+  EnableLeftClickDrag: true
   # Hover over the slot or swap cursor item
   NumKeyHotbarSwap: true
-  EnableShiftClickCrafting: true
   # Cursor must not be holding any items
   UseDropKeyInInventory: true
+  EnableShiftClickCrafting: true
+  LCtrlStackDrop: true
 MOUSE_TWEAKS_CONFIG:
-  LMBTweakPickUp: true
-  # [Shift-Click] items of the held type
-  LMBTweakShiftClick: true
-  RMBTweak: true
-  # [Shift-Click] items of any type
-  LMBTweakShiftClickAny: true
   SCROLL_WHEEL_CONFIG:
     # Does not work in multiplayer
     enableScrollWheelTweaks: true
     # For cursor/slot item transfer
     invertScrollCursorSlotDirection: false
+  # [Shift-Click] items of any type
+  LMBTweakShiftClickAny: true
+  # [Shift-Click] items of the held type
+  LMBTweakShiftClick: true
+  RMBTweak: true
+  LMBTweakPickUp: true

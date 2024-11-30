@@ -6,35 +6,35 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
+SHOVELS_CONFIG:
+  enableShovelsEffectiveOnSoulSand: true
+PARTICLES_CONFIG:
+  disableRedDustParticle: false
+  disableSlimeParticle: false
+  disableAllParticles: false
+  disablePortalParticle: false
+  disableWaterBubbleParticle: false
+  disableWaterSplashParticle: false
+  disableLargeFireSmokeParticle: false
+  disableFireSmokeParticle: false
+  disableHeartParticle: false
+  disableNoteParticle: false
+  disableExplosionParticle: false
+  disableFootstepParticle: false
+  disableSnowballParticle: false
+  disableSnowShovelParticle: false
+  disableLavaEmberParticle: false
+  disableFlameParticle: false
+pigsDropBrownMushrooms: false
+boatLogoutLoginFixesEnabled: true
 addDayCounterToDebugOverlay: true
+
+# Restart required for changes to take effect
+slabPlacementFixesEnabled: true
+allowCraftingInventorySlots: false
+addTotalPlayTimeToDebugOverlay: true
 
 # Calculated at player's eye level
 addLightLevelToDebugOverlay: true
 milkSquids: false
 addBiomeToDebugOverlay: true
-addTotalPlayTimeToDebugOverlay: true
-
-# Restart required for changes to take effect
-slabPlacementFixesEnabled: true
-pigsDropBrownMushrooms: false
-boatLogoutLoginFixesEnabled: true
-allowCraftingInventorySlots: false
-PARTICLES_CONFIG:
-  disableWaterBubbleParticle: false
-  disableFootstepParticle: false
-  disableExplosionParticle: false
-  disableRedDustParticle: false
-  disableSnowShovelParticle: false
-  disableFireSmokeParticle: false
-  disablePortalParticle: false
-  disableHeartParticle: false
-  disableFlameParticle: false
-  disableLargeFireSmokeParticle: false
-  disableLavaEmberParticle: false
-  disableWaterSplashParticle: false
-  disableSlimeParticle: false
-  disableAllParticles: false
-  disableNoteParticle: false
-  disableSnowballParticle: false
-SHOVELS_CONFIG:
-  enableShovelsEffectiveOnSoulSand: true

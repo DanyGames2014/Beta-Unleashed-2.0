@@ -6,67 +6,67 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-# Chance is the same as seeds from tall grass
-enableRandomStickDropFromDeadBushes: false
-
 # Requires BHCreative as item is non-vanilla
 enableShearsCollectFern: false
 
-# Restart required for changes to take effect
-enableZombieDropItem: false
-
-# Dye will be consumed on use
-enableColorSignsWithDye: false
-disableCreeperExplosionBreakingBlocks: false
-disableGhastExplosionBreakingBlocks: false
-
-# Player/mobs will no longer trample farmland
-disableTramplingFarmland: false
-
 # Chests can open when a block is above them
 enableChestsOpenWithBlockAbove: false
-disableTntExplosionBreakingBlocks: false
-
-# Disables leaf decay for player placed leaves
-enablePlayerPlacedLeafPersistence: false
 
 # Restart required for changes to take effect
-enableShearsCollectTallGrass: false
+enableGhastFireballsToInstaKillGhasts: false
 
-# Restart required for changes to take effect
-equalizeBaseArmorDurability: false
-disableAllExplosionsBreakingBlocks: false
+# Use Left-Click with shears to defuse
+enableDefusingTnt: false
+disableGhastExplosionBreakingBlocks: false
 
-# Restart required for changes to take effect
-modernArmorDefensePoints: false
-
-# Only affects player without boots
-disableTrampleFarmlandWhenBarefoot: false
+# Disabling converts rotated logs to weird oak
+enableLogRotation: false
 
 # Restart required for changes to take effect
 enableZombiePigmanDropItem: false
 
-# Restart required for changes to take effect
-enableShearsCollectDeadBush: false
-
-# Only affects player with leather boots
-disableTrampleFarmlandWithLeatherBoots: false
+# Dye will be consumed on use
+enableColorSignsWithDye: false
 
 # Feather will be consumed on use
 enableEditSignsWithFeathers: false
 
 # Restart required for changes to take effect
-enableDoubleStoneSlabCraftingRecipe: false
-
-# Use Left-Click with shears to defuse
-enableDefusingTnt: false
+equalizeBaseArmorDurability: false
 
 # Restart required for changes to take effect
-enableGhastFireballsToInstaKillGhasts: false
+enableDoubleStoneSlabCraftingRecipe: false
 
-# Disabling converts rotated logs to weird oak
-enableLogRotation: false
+# Chance is the same as seeds from tall grass
+enableRandomStickDropFromDeadBushes: false
+disableAllExplosionsBreakingBlocks: false
+disableCreeperExplosionBreakingBlocks: false
+
+# Restart required for changes to take effect
+enableZombieDropItem: false
 disableGhastExplosionCausingFire: false
+
+# Player/mobs will no longer trample farmland
+disableTramplingFarmland: false
+
+# Only affects player without boots
+disableTrampleFarmlandWhenBarefoot: false
+
+# Restart required for changes to take effect
+modernArmorDefensePoints: false
+
+# Disables leaf decay for player placed leaves
+enablePlayerPlacedLeafPersistence: false
+
+# Only affects player with leather boots
+disableTrampleFarmlandWithLeatherBoots: false
+
+# Restart required for changes to take effect
+enableShearsCollectDeadBush: false
+
+# Restart required for changes to take effect
+enableShearsCollectTallGrass: false
+disableTntExplosionBreakingBlocks: false
 
 # 0 = disabled, 5 = modern drop chance
 appleDropChance: 0
