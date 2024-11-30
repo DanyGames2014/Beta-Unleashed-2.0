@@ -1,0 +1,16 @@
+filename = 'retrocommands-0.5.4.jar'
+name = 'Retro Commands'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '292af7b992f52c75ac22a08eae00ca232dad0f57f181912b9656d303b5aa68b399ed7a2ed9e1d2bd603d0cfa3567e949c224ec25fb469f5a15bd9cb86a90fd8b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wIWtkL0s/versions/O8rzXu6R/retrocommands-0.5.4.jar'
+
+[update.modrinth]
+mod-id = 'wIWtkL0s'
+version = 'O8rzXu6R'

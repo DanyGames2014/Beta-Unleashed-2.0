@@ -1,0 +1,16 @@
+filename = 'HudTweaks-1.6.0.jar'
+name = 'HudTweaks StationAPI'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '44160ce5c3f7aee911a0331ea268315889323b907dce8d1563d26d020a0f76a40b46db0cf6a604b6c5da22499438eceb2e6784b272f7d316cdf1533e9fb2bdef'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/F5B9HnVw/versions/BvSs2h6f/HudTweaks-1.6.0.jar'
+
+[update.modrinth]
+mod-id = 'F5B9HnVw'
+version = 'BvSs2h6f'
