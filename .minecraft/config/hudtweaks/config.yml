@@ -12,7 +12,7 @@ drawXboxXAndYButtons: false
 disableCrosshair: false
 enableChatScroll: true
 putStatusBarIconsBelowHotbar: false
-enableHotbarItemSelectionTooltips: true
+enableHotbarItemSelectionTooltips: false
 
 # 0 = vanilla, 32 = xbox, 218 = top
 hotbarYPositionOffset: 0

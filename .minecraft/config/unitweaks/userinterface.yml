@@ -16,7 +16,7 @@ achievementBackToMenu: true
 # Shows Quit Button on the Main Menu
 showQuitButton: true
 panoramaConfig:
-  enablePanorma: true
+  enablePanorma: false
   blurBackground: true
   # Default included : beta18, glacier
   panoramaFolder: "glacier"
@@ -36,7 +36,7 @@ videoSettingsConfig:
   # Requires a restart to take effect
   fogDensitySlider: true
 versionTextConfig:
-  showVersionTextIngame: true
+  showVersionTextIngame: false
   unlicensedCopy: false
   enableCustomVersionText: false
   # Only has effect if custom version text is enabled

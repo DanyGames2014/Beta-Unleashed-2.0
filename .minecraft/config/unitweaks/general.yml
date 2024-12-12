@@ -9,4 +9,4 @@
 tcpNoDelay: true
 rawInput: false
 pauseOnLostFocus: true
-autosaveInterval: 1
+autosaveInterval: 30
