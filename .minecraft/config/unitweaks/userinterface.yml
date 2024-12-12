@@ -7,7 +7,7 @@
 #####################################################
 
 improvedControlsMenu: true
-disableDebugEntityIdTags: true
+disableDebugEntityIdTags: false
 hideAchievementToast: false
 
 # Done button will lead to Game Menu instead of unpausing
