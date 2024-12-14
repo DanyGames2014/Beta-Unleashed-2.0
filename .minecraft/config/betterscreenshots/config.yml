@@ -9,7 +9,7 @@
 addBasicScreenshotsToClipboard: true
 
 # Reload world for changes to take effect
-disableRenderingNetherBedrock: true
+disableRenderingNetherBedrock: false
 
 # Flips the isometric screenshot horizontally
 mirrorIsometricScreenshot: false

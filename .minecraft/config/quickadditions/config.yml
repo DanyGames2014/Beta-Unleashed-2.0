@@ -23,7 +23,7 @@ enableAlwaysSnowAboveSetYLevel: false
 handSwingClickToExitBedsEnabled: false
 mainMenuThemeOverridesBGM: false
 MAX_SPAWN_CAPACITY_SQUID: 5
-alwaysSnowAboveThisYLevel: 96
+alwaysSnowAboveThisYLevel: 100
 
 # Restart required for changes to take effect
 SOUL_SAND_OUTPUT: 4

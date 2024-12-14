@@ -23,17 +23,20 @@ key_key.drop:16
 key_key.inventory:18
 key_key.chat:20
 key_key.fog:33
+key_key.alwaysmoreitems.toggleOverlay:24
+key_key.alwaysmoreitems.showRecipe:19
+key_key.alwaysmoreitems.showUses:22
+key_key.alwaysmoreitems.recipeBack:14
 key_Custom Photo:66
 key_Isometric Photo:65
-key_Toggle Freecam:46
+key_Toggle Freecam:44
 key_Toggle Player Movement:47
 key_Change Freecam Speed:48
 key_Save Or Load Camera Position:49
 key_Open Camera Position Gui:50
-key_Toggle HMI:24
-key_Debug Graph:12
+key_Debug Graph:29
 key_key.unitweaks.dismount:42
-key_key.unitweaks.zoom:29
+key_key.unitweaks.zoom:46
 key_key.unitweaks.photo_mode:25
 key_key.unitweaks.hide_hud:59
 key_key.unitweaks.take_screenshot:60
@@ -51,8 +54,9 @@ key_key.unitweaks.hotbar_6:7
 key_key.unitweaks.hotbar_7:8
 key_key.unitweaks.hotbar_8:9
 key_key.unitweaks.hotbar_9:10
-key_key.unitweaks.panorama_screenshot:0
-key_playerList:15
+key_key.unitweaks.panorama_screenshot:38
+key_key.unitweaks.rescan:37
+key_key.unitweaks.toggle_raw_input:23
 fov:0.0
 fog_density:0.5
 clouds:true
@@ -60,4 +64,4 @@ cloud_height:0.0
 fps_limit: 0.4
 render_distance: 0.2
 brightness:0.0
-soundPack:
+gui_scale:0.0

@@ -1,13 +1,16 @@
-filename = 'freecam-0.1.0.jar'
-name = 'Freecam StationAPI'
-side = 'client'
+filename = 'freecam-0.2.1.jar'
+name = 'Freecam'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'b5bcd300583ec3aa2da3367f076f0c4de00e2106bff49a2d2d240c7b656f81f2b022d303add09177ddba42fcb842bcbbd50c2b88ca70c21cf82bc71122cf0105'
+hash = 'f6b2df1b7f845c9e3a2413fb31af6d899064adbf0a7996bcc9fba2707814d789a9728f2e6f8953ced874582cafa473e58c220e976697ac141da4dac32b7b6f98'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/skGiNNDk/versions/UNElMWJP/freecam-0.1.0.jar'
+url = 'https://cdn.modrinth.com/data/skGiNNDk/versions/E8Nl5Omv/freecam-0.2.1.jar'
 
 [update.modrinth]
 mod-id = 'skGiNNDk'
-version = 'UNElMWJP'
+version = 'E8Nl5Omv'

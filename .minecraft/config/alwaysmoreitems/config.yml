@@ -20,7 +20,7 @@ showModNames: true
 
 # Shows hidden stuff like the lit furnace and wheat crop block.
 showRedundantItems: false
-cheatMode: true
+cheatMode: false
 rightClickGiveAmount: 1
 maxItemListWidth: 100
 maxItemListHeight: 200
