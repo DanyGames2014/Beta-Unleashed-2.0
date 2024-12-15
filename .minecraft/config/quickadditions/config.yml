@@ -6,52 +6,76 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-bedsSpeedUpNightRatherThanSkipIt: false
-
 # Restart required for changes to take effect
-disableDefaultMinecraftBGM: false
+SOUL_SAND_OUTPUT: 4
+WEATHER_CONFIG:
+  # Minimum time in ticks until thunder occurs
+  timeUntilThunderMinimum: 12000
+  # Added to minimum to find rain duration
+  rainDurationRandomLimit: 12000
+  # Added to minimum to find thunder time
+  timeUntilThunderRandomLimit: 168000
+  # Added to minimum to find thunder duration
+  thunderDurationRandomLimit: 12000
+  # Minimum time in ticks until thunder ends
+  thunderDurationMinimum: 3600
+  # Minimum time in ticks until rain ends
+  rainDurationMinimum: 12000
+  # Added to minimum to find rain time
+  timeUntilRainRandomLimit: 168000
+  alwaysSnowAboveThisYLevel: 100
+  # Minimum time in ticks until rain occurs
+  timeUntilRainMinimum: 12000
+  sleepOnlyResetsWeatherWhenRaining: false
+  enableAlwaysSnowAboveSetYLevel: false
+MISSING_ACHIEVEMENTS_CONFIG:
+  KILL_COW: false
+  FLY_PIG: false
+  CRAFT_HOE: false
+  ON_A_RAIL: false
+  CRAFT_BETTER_PICKAXE: false
+  OPEN_INVENTORY: false
+  KILL_ENEMY: false
+  MINE_WOOD: false
+  MAKE_BREAD: false
+  COOK_FISH: false
+  AQUIRE_IRON: false
+  CRAFT_PICKAXE: false
+  CRAFT_FURNACE: false
+  BAKE_CAKE: false
+  CRAFT_WORKBENCH: false
+  CRAFT_SWORD: false
+ENTITY_SPAWN_MECHANICS_CONFIG:
+  MAX_SPAWN_CAPACITY_MONSTER: 70
+  MAX_SPAWN_CAPACITY_SQUID: 5
+  # Does not effect ghasts, wolves cap at 8
+  SPAWN_GROUP_SIZE: 4
+  MAX_SPAWN_CAPACITY_PASSIVE: 15
+  # Living entities will no longer despawn
+  disableLivingEntitiesDespawning: false
+MUSIC_CONFIG:
+  # Default Value: 12000
+  musicCoundownRandomIntervalMax: 12000
+  # Default Value: 12000
+  musicCoundownRandomIntervalMin: 12000
+  # Float value between 0.0 (0%) and 1.0 (100%)
+  volumeNetherPortalAmbient: 1.0
+  # Float value between 0.0 (0%) and 1.0 (100%)
+  volumeGhastAmbient: 1.0
+  # Float value between 0.0 (0%) and 1.0 (100%)
+  volumeCaveAmbient: 1.0
+  # Float value between 0.0 (0%) and 1.0 (100%)
+  volumeRainAmbient: 1.0
+  # Plays 'mainmenu' song file if one is found
+  mainMenuThemeEnabled: true
+  # Restart required for changes to take effect
+  disableDefaultMinecraftBGM: false
+  mainMenuThemeOverridesBGM: false
+handSwingClickToExitBedsEnabled: false
+bedsSpeedUpNightRatherThanSkipIt: false
 
 # Restart required for changes to take effect
 ENABLE_SOUL_SAND_RECIPE: false
 
 # Game will not pause when tabbing away
 forceDisplayActive: false
-
-# Plays 'mainmenu' song file if one is found
-mainMenuThemeEnabled: true
-enableAlwaysSnowAboveSetYLevel: false
-handSwingClickToExitBedsEnabled: false
-mainMenuThemeOverridesBGM: false
-MAX_SPAWN_CAPACITY_SQUID: 5
-alwaysSnowAboveThisYLevel: 100
-
-# Restart required for changes to take effect
-SOUL_SAND_OUTPUT: 4
-
-# Default Value: 12000
-musicCoundownRandomIntervalMax: 12000
-MAX_SPAWN_CAPACITY_PASSIVE: 15
-MAX_SPAWN_CAPACITY_MONSTER: 70
-
-# Does not effect ghasts, wolves cap at 8
-SPAWN_GROUP_SIZE: 4
-
-# Default Value: 12000
-musicCoundownRandomIntervalMin: 12000
-MISSING_ACHIEVEMENTS_CONFIG:
-  CRAFT_SWORD: false
-  KILL_COW: false
-  CRAFT_PICKAXE: false
-  AQUIRE_IRON: false
-  KILL_ENEMY: false
-  BAKE_CAKE: false
-  CRAFT_HOE: false
-  ON_A_RAIL: false
-  CRAFT_WORKBENCH: false
-  OPEN_INVENTORY: false
-  CRAFT_BETTER_PICKAXE: false
-  MAKE_BREAD: false
-  MINE_WOOD: false
-  COOK_FISH: false
-  CRAFT_FURNACE: false
-  FLY_PIG: false
