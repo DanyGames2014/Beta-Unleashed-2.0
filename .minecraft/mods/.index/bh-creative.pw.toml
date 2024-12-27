@@ -1,0 +1,13 @@
+filename = 'BHCreative-0.4.6.jar'
+name = 'BH Creative'
+side = 'both'
+
+[download]
+hash = '28d1ca5e1da27cb342d73e9e0ef4f5d41ace0dcf4e589a029e4ed34adfa6ee981aa6316fe60340177221eb54e55d111bca1a737d41d340d16e97a3c2cbbf9722'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MTea0HEh/versions/QOBCaKjY/BHCreative-0.4.6.jar'
+
+[update.modrinth]
+mod-id = 'MTea0HEh'
+version = 'QOBCaKjY'
