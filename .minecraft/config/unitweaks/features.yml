@@ -17,7 +17,7 @@ betterBurning:
 fastLeafDecay:
   minimumDecayTime: 10
   maximumDecayTime: 25
-  enableFastLeafDecay: true
+  enableFastLeafDecay: false
 
 # Adds sounds for various things (tool breaking, sheep shearing, eating etc.)
 moreSounds: true
