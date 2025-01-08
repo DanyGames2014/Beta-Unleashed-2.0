@@ -6,23 +6,23 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-addBasicScreenshotsToClipboard: true
-
-# Reload world for changes to take effect
-disableRenderingNetherBedrock: false
-
-# Flips the isometric screenshot horizontally
-mirrorIsometricScreenshot: false
+isometricPhotoRotation: 0
 
 # Default Value: 8
 isometricPhotoScale: 8
-
-# Zero degrees recommended for best angle
-isometricPhotoRotationOffset: 0
 
 # Default Value: 2240
 customResolutionPhotoHeight: 2240
 
 # Default Value: 7680
 customResolutionPhotoWidth: 7680
-isometricPhotoRotation: 0
+
+# Zero degrees recommended for best angle
+isometricPhotoRotationOffset: 0
+
+# Reload world for changes to take effect
+disableRenderingNetherBedrock: false
+
+# Flips the isometric screenshot horizontally
+mirrorIsometricScreenshot: false
+addBasicScreenshotsToClipboard: true

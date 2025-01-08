@@ -6,35 +6,40 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-addTotalPlayTimeToDebugOverlay: true
-addBiomeToDebugOverlay: true
-boatLogoutLoginFixesEnabled: true
-milkSquids: false
-pigsDropBrownMushrooms: false
-
-# Restart required for changes to take effect
-slabPlacementFixesEnabled: true
-addDayCounterToDebugOverlay: true
+PARTICLES_CONFIG:
+  disableFlameParticle: false
+  disableLavaEmberParticle: false
+  disableSnowShovelParticle: false
+  disablePortalParticle: false
+  disableRedDustParticle: false
+  disableSnowballParticle: false
+  disableSlimeParticle: false
+  disableWaterBubbleParticle: false
+  disableHeartParticle: false
+  disableNoteParticle: false
+  disableWaterSplashParticle: false
+  disableLargeFireSmokeParticle: false
+  disableExplosionParticle: false
+  disableAllParticles: false
+  disableFireSmokeParticle: false
+  disableFootstepParticle: false
+SHOVELS_CONFIG:
+  enableShovelsEffectiveOnSoulSand: true
+STACK_SIZE_CONFIG:
+  enableModernSignStackSize: false
+  enableModernWoodDoorStackSize: false
+  enableModernIronDoorStackSize: false
 
 # Calculated at player's eye level
 addLightLevelToDebugOverlay: true
+addDayCounterToDebugOverlay: true
+pigsDropBrownMushrooms: false
+addTotalPlayTimeToDebugOverlay: true
 allowCraftingInventorySlots: false
-SHOVELS_CONFIG:
-  enableShovelsEffectiveOnSoulSand: true
-PARTICLES_CONFIG:
-  disableExplosionParticle: false
-  disableFlameParticle: false
-  disableSnowballParticle: false
-  disableAllParticles: false
-  disableNoteParticle: false
-  disableSnowShovelParticle: false
-  disableFireSmokeParticle: false
-  disableSlimeParticle: false
-  disableFootstepParticle: false
-  disableLavaEmberParticle: false
-  disableWaterBubbleParticle: false
-  disableRedDustParticle: false
-  disableHeartParticle: false
-  disableLargeFireSmokeParticle: false
-  disablePortalParticle: false
-  disableWaterSplashParticle: false
+addBiomeToDebugOverlay: true
+
+# Restart required for changes to take effect
+slabPlacementFixesEnabled: true
+addSlimeChunkToDebugOverlay: true
+boatLogoutLoginFixesEnabled: true
+milkSquids: false

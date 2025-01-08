@@ -6,13 +6,13 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-# Prevents you from eating when your health is full
-noFoodWastage: true
+SERVER_PORT: 25565
 
-# Ignores block actions allowing you to place blocks when crouching
-shiftPlacing: true
-pickBlockFromInventory: true
-rightClickEquipArmor: true
+# Path to Java 17 runtime
+JAVA_PATH: "java"
+AUTO_OP_LAN_SERVER_HOST: true
 
-# Only works if fence bounding box fix is enabled
-fenceJumping: false
+# Helps with issuing commands and monitoring
+SERVER_GUI_ENABLED: false
+BACKUP_WORLD_ON_LAN_SERVER_LAUNCH: true
+FORCE_ONLINEMODE_FALSE: true

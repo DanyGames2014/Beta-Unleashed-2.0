@@ -6,23 +6,24 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
+itemBlacklist: []
+nbtBlacklist: []
+rightClickGiveAmount: 1
+maxItemListWidth: 100
+maxItemListHeight: 200
+
 # Shows item IDs and damage values.
 debugMode: false
+
+# Click on items to hide them, CTRL to hide all of the same item ID.
+editMode: false
+showModNames: true
 
 # Requires restart. Only use if necessary.
 ignoreUntranslatedNames: false
 
-# Click on items to hide them, CTRL to hide all of the same item ID.
-editMode: false
-showNbtCount: false
-centeredSearchBar: true
-showModNames: true
-
 # Shows hidden stuff like the lit furnace and wheat crop block.
 showRedundantItems: false
+showNbtCount: false
 cheatMode: false
-rightClickGiveAmount: 1
-maxItemListWidth: 100
-maxItemListHeight: 200
-nbtBlacklist: []
-itemBlacklist: []
+centeredSearchBar: true

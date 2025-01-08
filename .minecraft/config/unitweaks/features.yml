@@ -6,20 +6,21 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
+betterBurning:
+  burningEntitySpreadChance: 30
+  skeletonBurningArrowChance: 70
+  # Master switch for all features here
+  enableBetterBurning: true
+  burningEntitySpread: true
+  burningArrowsSetOnFire: true
+  skeletonsBurningArrows: true
+fastLeafDecay:
+  minimumDecayTime: 10
+  maximumDecayTime: 25
+  enableFastLeafDecay: true
+
 # Adds sounds for various things (tool breaking, sheep shearing, eating etc.)
 moreSounds: true
 
 # Allows you to step up one block
 stepAssist: false
-betterBurning:
-  burningArrowsSetOnFire: true
-  burningEntitySpread: true
-  skeletonsBurningArrows: true
-  # Master switch for all features here
-  enableBetterBurning: true
-  skeletonBurningArrowChance: 70
-  burningEntitySpreadChance: 30
-fastLeafDecay:
-  enableFastLeafDecay: true
-  minimumDecayTime: 10
-  maximumDecayTime: 25

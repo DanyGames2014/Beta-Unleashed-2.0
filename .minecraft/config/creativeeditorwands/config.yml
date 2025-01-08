@@ -9,8 +9,8 @@
 # Use this to disable tools in MP or SP
 disableAllEditingTools: false
 
-# Tools cannot be used if player is not OP
-activateEditingToolTooltipsOnServer: false
-
 # Single-player only
 enableTogglingEditingToolsWithBedrock: true
+
+# Tools cannot be used if player is not OP
+activateEditingToolTooltipsOnServer: false

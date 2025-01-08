@@ -6,20 +6,20 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
+preventItemsStoppingMinecarts: true
+sugarCaneOnSand: true
+boatsDropThemselves: true
+bookshelvesDropBooks: true
+disableSleeping: false
 betterBoats: false
+fencesPlaceableLikeNormal: true
 pressurePlatesOnFences: true
-shearHarvesting: true
-allowIgnitingEntities: false
+modernFlintAndSteel: false
+fencesConnectBlocks: true
+disableSleepSpawning: false
 
 # Expands chicken hitbox to it's modern size
 expandChickenHitbox: true
-sugarCaneOnSand: true
-bookshelvesDropBooks: true
-preventItemsStoppingMinecarts: true
-disableSleeping: false
-boatsDropThemselves: true
-fencesConnectBlocks: true
+shearHarvesting: true
+allowIgnitingEntities: false
 allowTrapdoorsWithoutSupport: true
-disableSleepSpawning: false
-fencesPlaceableLikeNormal: true
-modernFlintAndSteel: false
