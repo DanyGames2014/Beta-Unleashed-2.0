@@ -1,0 +1,16 @@
+filename = 'MiscTweaks-5.0.0.jar'
+name = 'MiscTweaks StationAPI'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1ee7c6c18be8a0a0c3890d3e5618b723b08c401462a626791bceeaefad55f761a29a04396067104589c8d173f391ca49bbbfd2cca780a8b5866c5ff747bbaa74'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vP3fLmO7/versions/U3DPVEr9/MiscTweaks-5.0.0.jar'
+
+[update.modrinth]
+mod-id = 'vP3fLmO7'
+version = 'U3DPVEr9'
