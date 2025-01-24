@@ -6,13 +6,14 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-SERVER_PORT: 25565
-
-# Path to Java 17 runtime
-JAVA_PATH: "java"
+FORCE_ONLINEMODE_FALSE: true
 AUTO_OP_LAN_SERVER_HOST: true
 
 # Helps with issuing commands and monitoring
 SERVER_GUI_ENABLED: false
+enableServerLogsInConsole: true
 BACKUP_WORLD_ON_LAN_SERVER_LAUNCH: true
-FORCE_ONLINEMODE_FALSE: true
+SERVER_PORT: 25565
+
+# Path to Java 17 runtime
+JAVA_PATH: "java"
