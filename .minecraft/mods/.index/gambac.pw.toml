@@ -1,13 +1,16 @@
-filename = 'gambac-1.1.1.jar'
-name = 'Gambac [deAWT & M1 Fix]'
-side = 'client'
+filename = 'gambac-1.2.0.jar'
+name = 'Gambac'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '45de6b2d09cbe4ef01718723e53300b33ccc28e5ee33aa01125d33f57ccc9ba1b21eb2b61f83b8c4487c2ed4b7b88868445b2058ece90977815efbdccb533e46'
+hash = 'dbca90801fae2b0d192981b931007412bfbaff39b2e985e765b00f56ba32896223fb6458876ded7b95d59fb00766013ca8b603f9d5f59bed7b588e787b663934'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/NeRVQHnE/versions/mBVNvriG/gambac-1.1.1.jar'
+url = 'https://cdn.modrinth.com/data/NeRVQHnE/versions/W7aRwuAx/gambac-1.2.0.jar'
 
 [update.modrinth]
 mod-id = 'NeRVQHnE'
-version = 'mBVNvriG'
+version = 'W7aRwuAx'

@@ -1,16 +1,16 @@
-filename = 'QuickAdditions-2.2.3.jar'
-name = 'QuickAdditions StationAPI'
+filename = 'QuickAdditions-2.3.0.jar'
+name = 'QuickAdditions'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '2d6dd3a9540e9200d5392bd42c5f947a52993845e1b3d7099d1219d55804abc6102fdbdfe91364b005ca29b4fbf96a3eb1cf6ecffe31d24a521e6d38fb82e08e'
+hash = 'cef063d05ad90e45fab893a5f68039f890f15aa9291aa8f24057cb2fd24bc56f414945df0fc0a00eaf74c3ac0b19f5dfdc3bd25a7fa6f22f64d73386e51a2829'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/50K1w3z1/versions/yD2J6zcV/QuickAdditions-2.2.3.jar'
+url = 'https://cdn.modrinth.com/data/50K1w3z1/versions/5L0IKWIy/QuickAdditions-2.3.0.jar'
 
 [update.modrinth]
 mod-id = '50K1w3z1'
-version = 'yD2J6zcV'
+version = '5L0IKWIy'
