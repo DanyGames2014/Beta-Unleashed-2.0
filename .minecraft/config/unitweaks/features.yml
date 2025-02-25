@@ -10,7 +10,7 @@ betterBurning:
   burningEntitySpreadChance: 30
   skeletonBurningArrowChance: 70
   # Master switch for all features here
-  enableBetterBurning: true
+  enableBetterBurning: false
   burningEntitySpread: true
   burningArrowsSetOnFire: true
   skeletonsBurningArrows: true
