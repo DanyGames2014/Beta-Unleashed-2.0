@@ -1,4 +1,4 @@
-filename = 'UniTweaksTelsAddons-1.7.1.jar'
+filename = 'UniTweaksTelsAddons-1.8.1.jar'
 name = 'UniTweaksTelsAddons'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'f538335464b6d46f7be7b3aa14869c854197412a5da0d55bf79c72c4536ce55e7be9bad810e9a1e04573911cf631a81224ec678d94264a325d86736c9df5ee27'
+hash = 'b713d9760ece5e88b87df6561e8543702bd7c868bf4c53e11d253c74dfa389d03477fd043d44e35127e024b2e9220ba75256e6454574154df1b97720a867a9e9'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/HUS2hqdq/versions/BSa4q6Cm/UniTweaksTelsAddons-1.7.1.jar'
+url = 'https://cdn.modrinth.com/data/HUS2hqdq/versions/Xw6oEDAw/UniTweaksTelsAddons-1.8.1.jar'
 
 [update.modrinth]
 mod-id = 'HUS2hqdq'
-version = 'BSa4q6Cm'
+version = 'Xw6oEDAw'

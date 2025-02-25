@@ -1,16 +1,16 @@
-filename = 'modmenu-1.8.5-beta.9.jar'
-name = 'ModMenu Beta'
-side = 'client'
+filename = 'modmenu-1.8.5-beta.11.jar'
+name = 'Mod Menu'
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '69d70ce182a76f9727573f9e3e268b846966bcf721b868dd1ab0e04aca343101cf01db7067dbfa47a2e2c97258501f6d55341d0fadc7ee599be1197d783d005f'
+hash = '695dd8e040991c5a711d5446712255f5745cffc097d12a19767042b64120c8920b84084fbce46f5bc24b9605a6550e4936469ac423e7bef9687c0f3a9488905d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/6v8kVRE3/versions/ezg5NRdh/modmenu-1.8.5-beta.9.jar'
+url = 'https://cdn.modrinth.com/data/6v8kVRE3/versions/YFZrfL26/modmenu-1.8.5-beta.11.jar'
 
 [update.modrinth]
 mod-id = '6v8kVRE3'
-version = 'ezg5NRdh'
+version = 'YFZrfL26'

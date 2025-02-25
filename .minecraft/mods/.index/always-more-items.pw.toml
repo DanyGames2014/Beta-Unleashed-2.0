@@ -1,4 +1,4 @@
-filename = 'AlwaysMoreItems-1.5.2.jar'
+filename = 'AlwaysMoreItems-1.5.3.jar'
 name = 'Always More Items'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'e339b02eb87df02edb7dac4e1c1c0cbb710bcf018774ff3e844fc92d1b2115b2f60bdd36e332cc340eccebf9f95924f2d65d8d32b351a23bb75258552f18fa66'
+hash = '8393e08c00b0d517426d074e8fc0c34d27cab95427062d101d449d18d05ac346a3b129d24646bd552ad4fd7e613bdba27ef34e581eb25abdf7dc827f9d0cc855'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/sS8EvDNQ/versions/NvKEjpzw/AlwaysMoreItems-1.5.2.jar'
+url = 'https://cdn.modrinth.com/data/sS8EvDNQ/versions/jlKDarFE/AlwaysMoreItems-1.5.3.jar'
 
 [update.modrinth]
 mod-id = 'sS8EvDNQ'
-version = 'NvKEjpzw'
+version = 'jlKDarFE'

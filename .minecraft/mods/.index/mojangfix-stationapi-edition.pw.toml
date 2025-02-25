@@ -1,4 +1,4 @@
-filename = 'mojangfixstationapi-2.3.1.jar'
+filename = 'mojangfixstationapi-2.4.0.jar'
 name = 'MojangFixStationAPI'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'c4fabfd363fe993eb1d6a1824a412179f978b0d65d9b256d70b8f91ed49566bbeeb2db047af6f17b7ef7eb7ef8adc7d3cd03b344b5011e08502e8b0e5dcfb081'
+hash = 'a1119a5f600b50984afe09f4c0c6a081efc8a6f1d6a7b0314ee17773b692a2897c79422d3cad248ca682634fc81a84ad4f2926b4555926299485298aa2e5e3ff'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/cTg2WC1D/versions/zdqaHJD7/mojangfixstationapi-2.3.1.jar'
+url = 'https://cdn.modrinth.com/data/cTg2WC1D/versions/nN2ix4FX/mojangfixstationapi-2.4.0.jar'
 
 [update.modrinth]
 mod-id = 'cTg2WC1D'
-version = 'zdqaHJD7'
+version = 'nN2ix4FX'
