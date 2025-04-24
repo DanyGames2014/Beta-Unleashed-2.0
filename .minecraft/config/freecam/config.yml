@@ -6,4 +6,15 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
+# Changing this value will change the speed of the freecam
 speed: 10.0
+
+# Changing this value will change the drag of the freecam, The lower the drag, the longer it takes for the camera to stop. This option doesn't do anything for classic movement
+drag: 4.0
+collision: true
+
+# When this option is enabled, a 3D camera is rendered at the position of the freecam
+showCamera: true
+
+# When this option is enabled the freecam will move like in older versions of Freecam
+classicMovement: false

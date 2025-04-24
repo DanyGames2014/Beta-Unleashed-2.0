@@ -6,14 +6,25 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-FORCE_ONLINEMODE_FALSE: true
+ADVANCED_SERVER_CONFIG:
+  ALLOW_FLIGHT: false
+  # If false do not 'Open to LAN' in the nether
+  ALLOW_NETHER: true
+  # Requires BHCreative to use default creative
+  DEFAULT_GAMEMODE: 0
+  ENABLE_PVP: true
+  ENABLE_WHITELIST: false
+  MAX_PLAYERS: 20
+  SPAWN_ANIMALS: true
+  VIEW_DISTANCE: 10
 AUTO_OP_LAN_SERVER_HOST: true
-
-# Helps with issuing commands and monitoring
-SERVER_GUI_ENABLED: false
-enableServerLogsInConsole: true
 BACKUP_WORLD_ON_LAN_SERVER_LAUNCH: true
-SERVER_PORT: 25565
+FORCE_ONLINEMODE_FALSE: true
 
 # Path to Java 17 runtime
 JAVA_PATH: "java"
+
+# Helps with issuing commands and monitoring
+SERVER_GUI_ENABLED: false
+SERVER_PORT: 25565
+enableServerLogsInConsole: true

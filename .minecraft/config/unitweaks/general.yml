@@ -6,7 +6,12 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-autosaveInterval: 30
 pauseOnLostFocus: true
+autosaveInterval: 30
 tcpNoDelay: true
+
+# You probably don't want this
 rawInput: false
+
+# BetaCraft Resource Proxy by Default
+resourceDownloadUrl: "http://s3.betacraft.uk:11705/MinecraftResources/"

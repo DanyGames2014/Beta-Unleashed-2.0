@@ -7,39 +7,40 @@
 #####################################################
 
 PARTICLES_CONFIG:
+  disableAllParticles: false
+  disableWaterBubbleParticle: false
+  disableFireSmokeParticle: false
+  disableNoteParticle: false
+  disablePortalParticle: false
+  disableExplosionParticle: false
   disableFlameParticle: false
   disableLavaEmberParticle: false
-  disableSnowShovelParticle: false
-  disablePortalParticle: false
-  disableRedDustParticle: false
-  disableSnowballParticle: false
-  disableSlimeParticle: false
-  disableWaterBubbleParticle: false
-  disableHeartParticle: false
-  disableNoteParticle: false
+  disableFootstepParticle: false
   disableWaterSplashParticle: false
   disableLargeFireSmokeParticle: false
-  disableExplosionParticle: false
-  disableAllParticles: false
-  disableFireSmokeParticle: false
-  disableFootstepParticle: false
-SHOVELS_CONFIG:
-  enableShovelsEffectiveOnSoulSand: true
+  disableRedDustParticle: false
+  disableSnowballParticle: false
+  disableSnowShovelParticle: false
+  disableSlimeParticle: false
+  disableHeartParticle: false
 STACK_SIZE_CONFIG:
-  enableModernSignStackSize: false
   enableModernWoodDoorStackSize: false
   enableModernIronDoorStackSize: false
+  enableModernSignStackSize: false
+SHOVELS_CONFIG:
+  enableShovelsEffectiveOnSoulSand: true
+addBiomeToDebugOverlay: true
+addDayCounterToDebugOverlay: true
+addTotalPlayTimeToDebugOverlay: true
 
 # Calculated at player's eye level
 addLightLevelToDebugOverlay: true
-addDayCounterToDebugOverlay: true
+addSlimeChunkToDebugOverlay: true
+milkSquids: false
 pigsDropBrownMushrooms: false
-addTotalPlayTimeToDebugOverlay: true
-allowCraftingInventorySlots: false
-addBiomeToDebugOverlay: true
+plantReplacementFixesEnabled: true
 
 # Restart required for changes to take effect
 slabPlacementFixesEnabled: true
-addSlimeChunkToDebugOverlay: true
-boatLogoutLoginFixesEnabled: true
-milkSquids: false
+allowCraftingInventorySlots: false
+vehicleLogoutLoginFixesEnabled: true

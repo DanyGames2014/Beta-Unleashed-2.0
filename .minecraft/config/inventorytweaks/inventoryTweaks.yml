@@ -6,27 +6,42 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
+CRAFTING_RESULT_CONFIG:
+  # Craft a single stack of items into inventory
+  EnableCtrlClickCrafting: true
+  # Craft a single stack of items into cursor
+  EnableRightClickCrafting: true
+  # Crafts as many items as it can into inventory
+  EnableShiftClickCrafting: true
+  # Shift crafting will craft only one item type
+  StopShiftClickCraftingWhenItemChanges: true
 MODERN_MINECRAFT_CONFIG:
+  EnableShiftClickingItemsIntoArmorSlots: true
+  EnableShiftClickingItemsIntoDispensers: true
+  EnableShiftClickingItemsIntoFurnaces: true
+  # Requires crates mod by Slainlight
+  EnableShiftClickingItemsIntoCrates: true
+  # Initially empty cursor double click to pickup
+  DoubleLeftClickItemPickup: true
+  EnableDragGraphics: true
+  EnableLeftClickDrag: true
   EnableRightClickDrag: true
   LMBPreferShiftClick: true
-  EnableDragGraphics: true
   RMBPreferShiftClick: true
-  EnableLeftClickDrag: true
   # Cursor must not be holding any items
   UseDropKeyInInventory: true
   LCtrlStackDrop: true
   # Hover over the slot or swap cursor item
   NumKeyHotbarSwap: true
-  EnableShiftClickCrafting: true
 MOUSE_TWEAKS_CONFIG:
   SCROLL_WHEEL_CONFIG:
-    # For cursor/slot item transfer
-    invertScrollCursorSlotDirection: false
     # Does not work in multiplayer
     enableScrollWheelTweaks: true
+    # For cursor/slot item transfer
+    invertScrollCursorSlotDirection: false
   # [Shift-Click] items of any type
   LMBTweakShiftClickAny: true
-  RMBTweak: true
-  LMBTweakPickUp: true
   # [Shift-Click] items of the held type
   LMBTweakShiftClick: true
+  RMBTweak: true
+  LMBTweakPickUp: true

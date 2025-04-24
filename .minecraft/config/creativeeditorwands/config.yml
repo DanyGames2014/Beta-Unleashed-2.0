@@ -6,11 +6,11 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
+# Tools cannot be used if player is not OP
+activateEditingToolTooltipsOnServer: false
+
 # Use this to disable tools in MP or SP
 disableAllEditingTools: false
 
 # Single-player only
 enableTogglingEditingToolsWithBedrock: true
-
-# Tools cannot be used if player is not OP
-activateEditingToolTooltipsOnServer: false

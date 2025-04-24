@@ -8,10 +8,10 @@
 
 # Prevents you from eating when your health is full
 noFoodWastage: true
+pickBlockFromInventory: true
 
 # Ignores block actions allowing you to place blocks when crouching
 shiftPlacing: true
-pickBlockFromInventory: true
 rightClickEquipArmor: true
 
 # Only works if fence bounding box fix is enabled

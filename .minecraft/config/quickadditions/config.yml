@@ -6,78 +6,90 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-# Restart required for changes to take effect
-SOUL_SAND_OUTPUT: 4
+MISSING_ACHIEVEMENTS_CONFIG:
+  OPEN_INVENTORY: false
+  MINE_WOOD: false
+  CRAFT_WORKBENCH: false
+  CRAFT_PICKAXE: false
+  CRAFT_FURNACE: false
+  AQUIRE_IRON: false
+  CRAFT_HOE: false
+  MAKE_BREAD: false
+  BAKE_CAKE: false
+  CRAFT_BETTER_PICKAXE: false
+  COOK_FISH: false
+  ON_A_RAIL: false
+  CRAFT_SWORD: false
+  KILL_ENEMY: false
+  KILL_COW: false
+  FLY_PIG: false
 ENTITY_SPAWN_MECHANICS_CONFIG:
-  MAX_SPAWN_CAPACITY_MONSTER: 70
-  # Does not effect ghasts, wolves cap at 8
-  SPAWN_GROUP_SIZE: 4
-  MAX_SPAWN_CAPACITY_SQUID: 5
-  MAX_SPAWN_CAPACITY_PASSIVE: 15
   # Living entities will no longer despawn
   disableLivingEntitiesDespawning: false
+  # Saddled pigs will no longer despawn
+  disableSaddledPigsDespawning: false
+  # Saddled pigs are not in passive count
+  doNotCountSaddledPigs: false
+  # 4 = Nighttime Light Level
+  monstersSpawnAtOrBelowLightLevel: 7
+  # Does not effect ghasts, wolves cap at 8
+  SPAWN_GROUP_SIZE: 4
+  MAX_SPAWN_CAPACITY_MONSTER: 70
+  MAX_SPAWN_CAPACITY_PASSIVE: 15
+  MAX_SPAWN_CAPACITY_SQUID: 5
 MUSIC_CONFIG:
-  # Default Value: 12000
-  musicCoundownRandomIntervalMax: 12000
+  # Using portals stops any active BGM
+  stopCurrentBgmOnPortalUse: true
+  # Using portals stops dimension specific songs
+  stopDimensionSpecificSongOnPortalUse: true
+  # Plays 'mainmenu' song file if one is found
+  mainMenuThemeEnabled: true
+  mainMenuThemeOverridesBGM: false
+  # Restart required for changes to take effect
+  disableDefaultMinecraftBGM: false
   # Default Value: 12000
   musicCoundownRandomIntervalMin: 12000
+  # Default Value: 12000
+  musicCoundownRandomIntervalMax: 12000
   # Float value between 0.0 (0%) and 1.0 (100%)
-  volumeCaveAmbient: 1.0
+  volumeNetherPortalAmbient: 1.0
   # Float value between 0.0 (0%) and 1.0 (100%)
   volumeRainAmbient: 1.0
   # Float value between 0.0 (0%) and 1.0 (100%)
   volumeGhastAmbient: 1.0
   # Float value between 0.0 (0%) and 1.0 (100%)
-  volumeNetherPortalAmbient: 1.0
-  # Restart required for changes to take effect
-  disableDefaultMinecraftBGM: false
-  mainMenuThemeOverridesBGM: false
-  # Using portals stops dimension specific songs
-  stopDimensionSpecificSongOnPortalUse: true
-  # Plays 'mainmenu' song file if one is found
-  mainMenuThemeEnabled: true
+  volumeCaveAmbient: 1.0
 WEATHER_CONFIG:
-  # Minimum time in ticks until thunder occurs
-  timeUntilThunderMinimum: 12000
-  # Added to minimum to find rain duration
-  rainDurationRandomLimit: 12000
+  enableAlwaysSnowAboveSetYLevel: false
   alwaysSnowAboveThisYLevel: 100
-  # Minimum time in ticks until rain occurs
-  timeUntilRainMinimum: 12000
-  # Minimum time in ticks until thunder ends
-  thunderDurationMinimum: 3600
-  # Minimum time in ticks until rain ends
-  rainDurationMinimum: 12000
+  sleepOnlyResetsWeatherWhenRaining: false
   # Added to minimum to find rain time
   timeUntilRainRandomLimit: 168000
-  # Added to minimum to find thunder duration
-  thunderDurationRandomLimit: 12000
+  # Minimum time in ticks until rain occurs
+  timeUntilRainMinimum: 12000
+  # Added to minimum to find rain duration
+  rainDurationRandomLimit: 12000
+  # Minimum time in ticks until rain ends
+  rainDurationMinimum: 12000
   # Added to minimum to find thunder time
   timeUntilThunderRandomLimit: 168000
-  sleepOnlyResetsWeatherWhenRaining: false
-  enableAlwaysSnowAboveSetYLevel: false
-MISSING_ACHIEVEMENTS_CONFIG:
-  MINE_WOOD: false
-  KILL_ENEMY: false
-  CRAFT_FURNACE: false
-  CRAFT_WORKBENCH: false
-  CRAFT_BETTER_PICKAXE: false
-  MAKE_BREAD: false
-  CRAFT_PICKAXE: false
-  COOK_FISH: false
-  FLY_PIG: false
-  KILL_COW: false
-  BAKE_CAKE: false
-  OPEN_INVENTORY: false
-  CRAFT_SWORD: false
-  ON_A_RAIL: false
-  CRAFT_HOE: false
-  AQUIRE_IRON: false
+  # Minimum time in ticks until thunder occurs
+  timeUntilThunderMinimum: 12000
+  # Added to minimum to find thunder duration
+  thunderDurationRandomLimit: 12000
+  # Minimum time in ticks until thunder ends
+  thunderDurationMinimum: 3600
+
+# Float value between 0.0 (0%) and 1.0 (100%)
+asleepPlayerPercentageForSkippingNight: 1.0
+bedsSpeedUpNightRatherThanSkipIt: false
 handSwingClickToExitBedsEnabled: false
 
 # Game will not pause when tabbing away
 forceDisplayActive: false
-bedsSpeedUpNightRatherThanSkipIt: false
 
 # Restart required for changes to take effect
 ENABLE_SOUL_SAND_RECIPE: false
+
+# Restart required for changes to take effect
+SOUL_SAND_OUTPUT: 4

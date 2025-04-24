@@ -6,11 +6,11 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-hoeGrassForSeeds: false
 disableDeadBushGeneration: false
 disableTallGrassGeneration: false
-punchTntToIgnite: false
-ladderGaps: false
-boatElevators: false
 punchSheepForWool: false
+punchTntToIgnite: false
+hoeGrassForSeeds: false
+boatElevators: false
+ladderGaps: false
 minecartBoosters: false

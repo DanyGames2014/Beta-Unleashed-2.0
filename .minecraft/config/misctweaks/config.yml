@@ -6,54 +6,54 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-FLORA_CONFIG:
-  # 0 = disabled, 5 = modern drop chance
-  appleDropChance: 0
-  # Requires BHCreative as item is non-vanilla
-  enableShearsCollectFern: false
-  # Restart required for changes to take effect
-  enableShearsCollectDeadBush: false
-  # Disabling converts rotated logs to weird oak
-  enableLogRotation: false
-  # Chance is the same as seeds from tall grass
-  enableRandomStickDropFromDeadBushes: false
-  # Restart required for changes to take effect
-  enableShearsCollectTallGrass: false
-  # Disables leaf decay for player placed leaves
-  enablePlayerPlacedLeafPersistence: false
-MOB_CONFIG:
-  # Only works if setting is enabled above
-  zombieDropItem: 0
-  # Only works if setting is enabled above
-  zombiePigmanDropItem: 0
-  # Restart required for changes to take effect
-  enableZombieDropItem: false
-  # Only affects player with leather boots
-  disableTrampleFarmlandWithLeatherBoots: false
-  # Player/mobs will no longer trample farmland
-  disableTramplingFarmland: false
-  # Only affects player without boots
-  disableTrampleFarmlandWhenBarefoot: false
-  # Restart required for changes to take effect
-  enableZombiePigmanDropItem: false
+ARMOR_CONFIG:
+  equalizeBaseArmorDurability: false
+  modernArmorDefensePoints: false
 BLOCK_ENTITY_CONFIG:
+  # Chests can open when a block is above them
+  enableChestsOpenWithBlockAbove: false
   # Dye will be consumed on use
   enableColorSignsWithDye: false
   # Feather will be consumed on use
   enableEditSignsWithFeathers: false
-  # Chests can open when a block is above them
-  enableChestsOpenWithBlockAbove: false
 EXPLOSION_AND_FIRE_CONFIG:
-  disableCreeperExplosionBreakingBlocks: false
-  disableLightningStrikeCausingFire: false
-  disableAllExplosionsBreakingBlocks: false
-  disableGhastExplosionBreakingBlocks: false
   # Restart required for changes to take effect
   enableGhastFireballsToInstaKillGhasts: false
-  disableTntExplosionBreakingBlocks: false
   # Use Left-Click with shears to defuse
   enableDefusingTnt: false
+  disableAllExplosionsBreakingBlocks: false
+  disableCreeperExplosionBreakingBlocks: false
+  disableGhastExplosionBreakingBlocks: false
   disableGhastExplosionCausingFire: false
-ARMOR_CONFIG:
-  equalizeBaseArmorDurability: false
-  modernArmorDefensePoints: false
+  disableLightningStrikeCausingFire: false
+  disableTntExplosionBreakingBlocks: false
+FLORA_CONFIG:
+  # Chance is the same as seeds from tall grass
+  enableRandomStickDropFromDeadBushes: false
+  # Restart required for changes to take effect
+  enableShearsCollectDeadBush: false
+  # Requires BHCreative as item is non-vanilla
+  enableShearsCollectFern: false
+  # Restart required for changes to take effect
+  enableShearsCollectTallGrass: false
+  # 0 = disabled, 5 = modern drop chance
+  appleDropChance: 0
+  # Disabling converts rotated logs to weird oak
+  enableLogRotation: false
+  # Disables leaf decay for player placed leaves
+  enablePlayerPlacedLeafPersistence: false
+MOB_CONFIG:
+  # Restart required for changes to take effect
+  enableZombieDropItem: false
+  # Restart required for changes to take effect
+  enableZombiePigmanDropItem: false
+  # Only works if setting is enabled above
+  zombieDropItem: 0
+  # Only works if setting is enabled above
+  zombiePigmanDropItem: 0
+  # Player/mobs will no longer trample farmland
+  disableTramplingFarmland: false
+  # Only affects player without boots
+  disableTrampleFarmlandWhenBarefoot: false
+  # Only affects player with leather boots
+  disableTrampleFarmlandWithLeatherBoots: false
