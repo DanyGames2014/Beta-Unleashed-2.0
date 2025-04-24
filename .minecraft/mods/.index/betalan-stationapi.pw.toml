@@ -1,16 +1,16 @@
-filename = 'BetaLAN-2.1.0.jar'
-name = 'BetaLAN StationAPI'
-side = 'client'
+filename = 'BetaLAN-2.2.0.jar'
+name = 'BetaLAN'
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'ab28725603a9fa5baa978fc827fdd845c46b4d87ba835f00c3f4ac82818a287c475350b87f2c2a89ade5d592316f0d9ee083bbc105f4d8631d8451764ebe6db7'
+hash = 'cc5a88c59c5ce4f43ee9e29784044c3620e8dbf19159fd01c8cc86e9fa8b8bbbf20df42f49bef796e02a321e0c11270d51dca53647fcc2681c98397f0c08fcbc'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/R08OwijS/versions/3J849ozR/BetaLAN-2.1.0.jar'
+url = 'https://cdn.modrinth.com/data/R08OwijS/versions/bcHAV5XM/BetaLAN-2.2.0.jar'
 
 [update.modrinth]
 mod-id = 'R08OwijS'
-version = '3J849ozR'
+version = 'bcHAV5XM'

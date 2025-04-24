@@ -1,4 +1,4 @@
-filename = 'CreativeEditorWands-1.4.0.jar'
+filename = 'CreativeEditorWands-1.4.1.jar'
 name = 'CreativeEditorWands'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'a02aecd808a2780c34b793747fd51ad986cb015cbe51b4c38009f9d3328ae090056dbafe7f60640cc6c28554e05016f6823b260cf230dffc7d2210a3be473dfd'
+hash = '2e14ecfa6bbba6434b5208372446cf47b8591b39cac67be307a7a326dc1c519bcec40fb79ee2ec1a0930be1a1654861c0b7e3a56997925139124bce105c4b483'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/kSSsAb6M/versions/Ulp1qCfz/CreativeEditorWands-1.4.0.jar'
+url = 'https://cdn.modrinth.com/data/kSSsAb6M/versions/77dlvtWH/CreativeEditorWands-1.4.1.jar'
 
 [update.modrinth]
 mod-id = 'kSSsAb6M'
-version = 'Ulp1qCfz'
+version = '77dlvtWH'
