@@ -29,7 +29,7 @@ videoSettingsConfig:
   fpsLimitSlider: true
   # Requires a restart to take effect
   renderDistanceSlider: true
-  vanillaFarValues: false
+  vanillaFarValues: true
 versionTextConfig:
   showVersionTextIngame: false
   unlicensedCopy: false
