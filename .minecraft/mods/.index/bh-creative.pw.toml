@@ -1,4 +1,4 @@
-filename = 'BHCreative-0.4.8.jar'
+filename = 'BHCreative-0.4.9.jar'
 name = 'BHCreative'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '63229fd94dd6df034dffe489917c04a25dc506b1b2163cb33546ff62da7748388dc5abbe61c20bba767423a243ae9ce7f3cef26656f0ce69e94ad03aab59cad4'
+hash = '8f421c6258c33dce35b7b4b7fc9b5d775b95955e97a162d801c2306ea2eaef00b68955d5bf2862076f4b5a37c8dd3c823678651ee3c642e71e45fc0ee893e4f8'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/MTea0HEh/versions/x1qHiAKo/BHCreative-0.4.8.jar'
+url = 'https://cdn.modrinth.com/data/MTea0HEh/versions/reBNQY2O/BHCreative-0.4.9.jar'
 
 [update.modrinth]
 mod-id = 'MTea0HEh'
-version = 'x1qHiAKo'
+version = 'reBNQY2O'
