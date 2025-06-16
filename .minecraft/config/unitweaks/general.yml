@@ -15,3 +15,7 @@ rawInput: false
 
 # BetaCraft Resource Proxy by Default
 resourceDownloadUrl: "http://s3.betacraft.uk:11705/MinecraftResources/"
+
+# Dimensions which wont be loaded on server boot
+disabledDimensions:
+  - 2

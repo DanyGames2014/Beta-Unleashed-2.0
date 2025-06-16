@@ -1,4 +1,4 @@
-filename = 'QuickAdditions-2.5.0.jar'
+filename = 'QuickAdditions-2.7.0.jar'
 name = 'QuickAdditions'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'de4ed02ea91771e050b9f1c4949300426e53090415eecc85272f17c27df52a6548bbe9958f6fc129b568edba04345007c0926691753e64945f68766141c56bc3'
+hash = 'b6075b22ad97e360b1a2def4904819da7e4a926ec9f293fc71dba7445b8f0f641552294d0d0c3795ed788751d984189a438a4c677e17c072e084b0a7a0079ec0'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/50K1w3z1/versions/wLLQT5wQ/QuickAdditions-2.5.0.jar'
+url = 'https://cdn.modrinth.com/data/50K1w3z1/versions/ADPoBDGm/QuickAdditions-2.7.0.jar'
 
 [update.modrinth]
 mod-id = '50K1w3z1'
-version = 'wLLQT5wQ'
+version = 'ADPoBDGm'

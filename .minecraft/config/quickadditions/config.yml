@@ -51,6 +51,8 @@ MUSIC_CONFIG:
   musicCoundownRandomIntervalMin: 12000
   # Default Value: 12000
   musicCoundownRandomIntervalMax: 12000
+  overlayForMusicInDebug: true
+  overlayForMusicInDebugYOffset: 0
   # Float value between 0.0 (0%) and 1.0 (100%)
   volumeNetherPortalAmbient: 1.0
   # Float value between 0.0 (0%) and 1.0 (100%)
@@ -87,6 +89,9 @@ handSwingClickToExitBedsEnabled: false
 
 # Game will not pause when tabbing away
 forceDisplayActive: false
+
+# Restart required for changes to take effect
+SPAWN_PROTECTION_RADIUS: 16
 
 # Restart required for changes to take effect
 ENABLE_SOUL_SAND_RECIPE: false

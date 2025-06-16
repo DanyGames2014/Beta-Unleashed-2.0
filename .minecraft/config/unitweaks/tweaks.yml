@@ -17,6 +17,9 @@ shearHarvesting: true
 
 # Expands chicken hitbox to it's modern size
 expandChickenHitbox: true
+
+# Allows you to stack chests on top of each other
+stackableChests: true
 modernFlintAndSteel: false
 disableSleeping: false
 disableSleepSpawning: false

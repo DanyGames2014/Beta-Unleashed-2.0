@@ -1,4 +1,4 @@
-filename = 'MiscTweaks-5.1.2.jar'
+filename = 'MiscTweaks-5.2.0.jar'
 name = 'MiscTweaks'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '0904c5b99f73a5010f33b33b6e06c1d8788e7ea48e8c7c393e04f14669509bfa3ef2b3de327c373a8a2ecc2aebf48576ae1d2d8a8e7b7b84c8bcb395954055f7'
+hash = '07f70674dfdcfc147a7b7ff64ab266e4dc42dab3013e2ba2e8d9fbf335228850f19b2d35f1905c08a9d5644459c3db95aee40a19f93909345b17b2a7e2dd14a3'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/vP3fLmO7/versions/DZaGxPwL/MiscTweaks-5.1.2.jar'
+url = 'https://cdn.modrinth.com/data/vP3fLmO7/versions/8ogWgjpS/MiscTweaks-5.2.0.jar'
 
 [update.modrinth]
 mod-id = 'vP3fLmO7'
-version = 'DZaGxPwL'
+version = '8ogWgjpS'

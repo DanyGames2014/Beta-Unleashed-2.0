@@ -16,6 +16,9 @@ chatFadeTime: 100
 coordinateDisplay: 0
 disableCrosshair: false
 drawXboxXAndYButtons: false
+
+# For fixing blocks rendering over messages
+enableExperimentalFixForRaisedHotbar: false
 enableHotbarItemSelectionTooltips: false
 
 # 40 = default

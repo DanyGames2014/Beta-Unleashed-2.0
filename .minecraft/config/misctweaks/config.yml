@@ -6,16 +6,13 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-ARMOR_CONFIG:
+EQUIPMENT_CONFIG:
+  # Restart required for changes to take effect
+  bowsHaveDurability: false
+  # Restart required for changes to take effect
   equalizeBaseArmorDurability: false
+  # Restart required for changes to take effect
   modernArmorDefensePoints: false
-BLOCK_ENTITY_CONFIG:
-  # Chests can open when a block is above them
-  enableChestsOpenWithBlockAbove: false
-  # Dye will be consumed on use
-  enableColorSignsWithDye: false
-  # Feather will be consumed on use
-  enableEditSignsWithFeathers: false
 EXPLOSION_AND_FIRE_CONFIG:
   # Restart required for changes to take effect
   enableGhastFireballsToInstaKillGhasts: false
@@ -27,6 +24,15 @@ EXPLOSION_AND_FIRE_CONFIG:
   disableGhastExplosionCausingFire: false
   disableLightningStrikeCausingFire: false
   disableTntExplosionBreakingBlocks: false
+INTERACTIVE_BLOCK_CONFIG:
+  # Chests can open when a block is above them
+  enableChestsOpenWithBlockAbove: false
+  # Dye will be consumed on use
+  enableColorSignsWithDye: false
+  # Feather will be consumed on use
+  enableEditSignsWithFeathers: false
+  # Slimeball will be consumed on use
+  enableGlueTrapdoorsWithSlimeballs: false
 FLORA_CONFIG:
   # Chance is the same as seeds from tall grass
   enableRandomStickDropFromDeadBushes: false

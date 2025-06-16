@@ -36,6 +36,7 @@ addTotalPlayTimeToDebugOverlay: true
 # Calculated at player's eye level
 addLightLevelToDebugOverlay: true
 addSlimeChunkToDebugOverlay: true
+overlayAdditionsYOffset: 0
 milkSquids: false
 pigsDropBrownMushrooms: false
 plantReplacementFixesEnabled: true

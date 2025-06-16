@@ -65,6 +65,9 @@ hotbarRenderingFix: true
 # Fixes wooden slab not being mineable by hand and axe
 woodenSlabMiningFix: true
 
+# Fixes grass block top texture being wrong
+grassBlockItemFix: true
+
 # WARNING: This could be considered a hack on some servers
 miningDelayFix: true
 
