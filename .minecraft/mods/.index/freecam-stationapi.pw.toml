@@ -1,4 +1,4 @@
-filename = 'freecam-0.3.0.jar'
+filename = 'freecam-0.3.1.jar'
 name = 'Freecam'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '9c0e36989fe3117867a42f8ad3ab68d10dcb3fe4add3444f1447ada0efefe707eaeb7f50d01040fa3a2cbd390f9f97de7427fe166f6f1369510e098098c60465'
+hash = 'f89ff943468cb42fb6e5a51444e9687bccd8acb1c87086132d3dbb3c821e3cdd9258ecb6ddd4589b43865ca565f5bdb136d65a06a8d5223bd4b7493f6cd88b70'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/skGiNNDk/versions/tKxZ6A57/freecam-0.3.0.jar'
+url = 'https://cdn.modrinth.com/data/skGiNNDk/versions/nLHzGDkF/freecam-0.3.1.jar'
 
 [update.modrinth]
 mod-id = 'skGiNNDk'
-version = 'tKxZ6A57'
+version = 'nLHzGDkF'

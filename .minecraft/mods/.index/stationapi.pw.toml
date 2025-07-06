@@ -1,4 +1,4 @@
-filename = 'StationAPI-2.0.0-alpha.4.jar'
+filename = 'StationAPI-2.0.0-alpha.4.1.jar'
 name = 'Station API'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'alpha'
 
 [download]
-hash = 'b337e68949f4bfada70b3c8e82fb6a57a4bccb2d8cdaafa5105ccc96165d65830953dc0fe18382a066c87586b2a07031271a1efdc21a05ca9a08b6228de8edd4'
+hash = '33864b8eff76fe5c4750cdb9d9d699c94cbe8be4c85a42a1aa0e1d30d55f3f8573dcdb5030599b0dabff67c5e7ba9f37ecf43cf9ebea67d4ecdf7fa2cd88a8d2'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/472oW63Q/versions/Rci0T3Br/StationAPI-2.0.0-alpha.4.jar'
+url = 'https://cdn.modrinth.com/data/472oW63Q/versions/hH5Quo0b/StationAPI-2.0.0-alpha.4.1.jar'
 
 [update.modrinth]
 mod-id = '472oW63Q'
-version = 'Rci0T3Br'
+version = 'hH5Quo0b'
