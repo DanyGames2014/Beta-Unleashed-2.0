@@ -1,4 +1,4 @@
-filename = 'HudTweaks-1.7.1.jar'
+filename = 'HudTweaks-1.8.0.jar'
 name = 'HudTweaks'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '4ea7d7c16cbaddb20d3f38b58234f3b01f10313fce10f7f2987efda7f4187a24ab6c85f280b7725353b9b6c760b6e5cd54aec1748d61dbaf87982c21d1d71ceb'
+hash = '52d1a0afe5c76d666aef19324c59f4fd0a244649771e39fc877da6773e8de4f5467ed356185530fec28078010349a0407f21e19140791f31567e41ec851b45bf'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/F5B9HnVw/versions/Szw4pjWy/HudTweaks-1.7.1.jar'
+url = 'https://cdn.modrinth.com/data/F5B9HnVw/versions/hav4v0Za/HudTweaks-1.8.0.jar'
 
 [update.modrinth]
 mod-id = 'F5B9HnVw'
-version = 'Szw4pjWy'
+version = 'hav4v0Za'

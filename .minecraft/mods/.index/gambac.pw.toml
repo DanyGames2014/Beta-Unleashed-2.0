@@ -1,4 +1,4 @@
-filename = 'gambac-1.2.0.jar'
+filename = 'gambac-1.3.0.jar'
 name = 'Gambac'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'dbca90801fae2b0d192981b931007412bfbaff39b2e985e765b00f56ba32896223fb6458876ded7b95d59fb00766013ca8b603f9d5f59bed7b588e787b663934'
+hash = 'ba0727e1513f49d41dab5be3fb792538fc65b454c9174602f37a2ee8303a42545ac6cacc6d29fe88261637896aa28d53de73996363861c8a7454200b06d0919f'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/NeRVQHnE/versions/W7aRwuAx/gambac-1.2.0.jar'
+url = 'https://cdn.modrinth.com/data/NeRVQHnE/versions/UGCIfbjt/gambac-1.3.0.jar'
 
 [update.modrinth]
 mod-id = 'NeRVQHnE'
-version = 'W7aRwuAx'
+version = 'UGCIfbjt'
