@@ -25,31 +25,57 @@ Only one step is needed to convert a world from 2.x to 1.x/vanilla. Select the w
 ## A shout out to the mod developers:
 
 Always More Items - calmilamsy, danygames2014
+
 Babric - js6pak, CatCore, calmilamsy
+
 BetaLAN - Telvarost, danyGames2014
+
 BetterScreenshots - Telvarost (shoutout to Birevan and Exalm for their help)
+
 BHCreative - paulevs
+
 CreativeEditorWands - Telvarost 
+
 Freecam - Ralf2oo2, Telvarost 
+
 Gambáč - DanyGames2014
+
 Glass Config API - calmilamsy, Zekromaster, mineLdiver, Cat Core
+
 Glass Networking - calmilamsy
+
 HudTweaks - Telvarost (shoutout to cen0b for suggestions)
+
 InventoryTweaks - Telvarost (shoutout to YaLTeR and js6pak for inspiration)
+
 Macula - daxnitro, mine_diver
+
 MiscTweaks - Telvarost, 2zqa
+
 Mod Menu (Beta Port) - calmilamsy, Telvarost (shoutout to Prospector + 71 Contributors for original mod)
+
 MojangFixStationAPI - Telvarost, js6pak
+
 Player List - Vicisacat, Telvarost
+
 QuickAdditions - Telvarost
+
 Retro Commands - slainlight (shoutout to imo_415 for original mod (Single PlayerCommands))
+
 RetroAuth - Slainlight
+
 SmoothBeta - mine_diver
+
 StAPI No Annoying Intro - Vicisacat
+
 Station API - mineLdiver, calmilamsy, paulevs and 6 other Contributors
+
 Third Person Fix - Slainlight
+
 UniTweaks - DanyGames2014, Telvarost
+
 UniTweaksTelsAddons - Telvarost
+
 ZastavkaAPI - Telvarost
 
 
