@@ -9,6 +9,7 @@
 .minecraft/screenshots
 .minecraft/server-resource-packs
 .minecraft/stats
+/natives
 
 # Log Files
 *.log
