@@ -12,7 +12,6 @@ fencesPlaceableLikeNormal: true
 fencesConnectBlocks: true
 bookshelvesDropBooks: true
 pressurePlatesOnFences: true
-betterBoats: false
 shearHarvesting: true
 
 # Expands chicken hitbox to it's modern size

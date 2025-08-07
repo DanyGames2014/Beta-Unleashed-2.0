@@ -24,3 +24,6 @@ stepAssist: false
 
 # Adds sounds for various things (tool breaking, sheep shearing, eating etc.)
 moreSounds: true
+
+# Adds sounds for chests (a few options are available)
+moreSoundsChests: 2

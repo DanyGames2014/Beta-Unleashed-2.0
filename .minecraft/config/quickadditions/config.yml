@@ -51,6 +51,7 @@ MUSIC_CONFIG:
   musicCoundownRandomIntervalMin: 12000
   # Default Value: 12000
   musicCoundownRandomIntervalMax: 12000
+  # If using Better F3 use its module config
   overlayForMusicInDebug: true
   overlayForMusicInDebugYOffset: 0
   # Float value between 0.0 (0%) and 1.0 (100%)

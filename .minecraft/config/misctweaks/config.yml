@@ -14,6 +14,9 @@ EQUIPMENT_CONFIG:
   # Restart required for changes to take effect
   modernArmorDefensePoints: false
 EXPLOSION_AND_FIRE_CONFIG:
+  enableSnowballsExtinguishFire: false
+  # Restart required for changes to take effect
+  enableFireTurnsGrassIntoDirt: false
   # Restart required for changes to take effect
   enableGhastFireballsToInstaKillGhasts: false
   # Use Left-Click with shears to defuse
@@ -24,15 +27,6 @@ EXPLOSION_AND_FIRE_CONFIG:
   disableGhastExplosionCausingFire: false
   disableLightningStrikeCausingFire: false
   disableTntExplosionBreakingBlocks: false
-INTERACTIVE_BLOCK_CONFIG:
-  # Chests can open when a block is above them
-  enableChestsOpenWithBlockAbove: false
-  # Dye will be consumed on use
-  enableColorSignsWithDye: false
-  # Feather will be consumed on use
-  enableEditSignsWithFeathers: false
-  # Slimeball will be consumed on use
-  enableGlueTrapdoorsWithSlimeballs: false
 FLORA_CONFIG:
   # Chance is the same as seeds from tall grass
   enableRandomStickDropFromDeadBushes: false
@@ -48,6 +42,15 @@ FLORA_CONFIG:
   enableLogRotation: false
   # Disables leaf decay for player placed leaves
   enablePlayerPlacedLeafPersistence: false
+INTERACTIVE_BLOCK_CONFIG:
+  # Chests can open when a block is above them
+  enableChestsOpenWithBlockAbove: false
+  # Dye will be consumed on use
+  enableColorSignsWithDye: false
+  # Feather will be consumed on use
+  enableEditSignsWithFeathers: false
+  # Slimeball will be consumed on use
+  enableGlueTrapdoorsWithSlimeballs: false
 MOB_CONFIG:
   # Restart required for changes to take effect
   enableZombieDropItem: false

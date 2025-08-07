@@ -18,13 +18,8 @@ disableCrosshair: false
 drawXboxXAndYButtons: false
 
 # For fixing blocks rendering over messages
-enableExperimentalFixForRaisedHotbar: false
+enableHotbarBlockRenderingFix: true
 enableHotbarItemSelectionTooltips: false
 
 # 40 = default
 hotbarItemSelectionFadeTime: 40
-
-# 0 = vanilla, 32 = xbox, 218 = top
-hotbarYPositionOffset: 0
-putItemSelectionTooltipBelowHotbar: false
-putStatusBarIconsBelowHotbar: false
