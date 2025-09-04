@@ -1,4 +1,4 @@
-filename = 'glass-networking-1.0.6.jar'
+filename = 'glass-networking-1.0.7.jar'
 name = 'Glass Networking'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'db3e2c7660d8692399853b562eb95fed5d1532f6e9206a0f05d06f2a0ae2022018f29ffac782ce70bc208f3e53534a8cfb8d4a7886ff6de19a980dc395af0b6e'
+hash = '51dbe5425364580afe9b234f30e482bdf2f7d7abe9ff73e0750e4016170002e08ee56c8df2696856323e88b0f651e74fc0f2daa4bca54ba21ee9030c956d0d96'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/2r34vF2R/versions/fxBpnrp3/glass-networking-1.0.6.jar'
+url = 'https://cdn.modrinth.com/data/2r34vF2R/versions/IrykFyJd/glass-networking-1.0.7.jar'
 
 [update.modrinth]
 mod-id = '2r34vF2R'
-version = 'fxBpnrp3'
+version = 'IrykFyJd'

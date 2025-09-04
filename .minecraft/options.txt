@@ -34,7 +34,6 @@ key_Toggle Player Movement:47
 key_Change Freecam Speed:48
 key_Save Or Load Camera Position:49
 key_Open Camera Position Gui:50
-key_Debug Graph:29
 key_key.unitweaks.dismount:42
 key_key.unitweaks.zoom:46
 key_key.unitweaks.photo_mode:25
@@ -57,6 +56,7 @@ key_key.unitweaks.hotbar_9:10
 key_key.unitweaks.panorama_screenshot:38
 key_key.unitweaks.rescan:37
 key_key.unitweaks.toggle_raw_input:23
+key_playerList:15
 fov:0.0
 fog_density:0.5
 clouds:true
