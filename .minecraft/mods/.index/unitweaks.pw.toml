@@ -1,4 +1,4 @@
-filename = 'UniTweaks-0.21.0.jar'
+filename = 'UniTweaks-0.22.1.jar'
 name = 'UniTweaks'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '7603ae19e902cf4e5b4988a764b620f6643e3e0c526ebede8d1541d677b4f2f39a11e537c5f2fdbb752c5e9484b23845bee03de6680d70120be071c78fd165f2'
+hash = '32b684b4f0b3e854411eed52b5de42627c62b272738f8c091673b2b08fcc810a61d4840e247eb8287473ea8e924134b850b01d358ed2d4b08dfc17f2e0e09b5b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/1pyTGaA4/versions/Qr11JNIk/UniTweaks-0.21.0.jar'
+url = 'https://cdn.modrinth.com/data/1pyTGaA4/versions/AtkXX4ZJ/UniTweaks-0.22.1.jar'
 
 [update.modrinth]
 mod-id = '1pyTGaA4'
-version = 'Qr11JNIk'
+version = 'AtkXX4ZJ'

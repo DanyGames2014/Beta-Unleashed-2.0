@@ -14,6 +14,7 @@ hideAchievementToast: false
 # Done button will lead to Game Menu instead of unpausing
 achievementBackToMenu: true
 disableDebugEntityIdTags: false
+frontViewThirdPerson: 1
 videoSettingsConfig:
   # Requires a restart to take effect
   brightnessSlider: true
