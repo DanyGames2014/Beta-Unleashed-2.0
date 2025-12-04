@@ -27,3 +27,6 @@ moreSounds: true
 
 # Adds sounds for chests (a few options are available)
 moreSoundsChests: 2
+
+# Makes the tool break sound play a falling pipe sound
+fallingPipe: false

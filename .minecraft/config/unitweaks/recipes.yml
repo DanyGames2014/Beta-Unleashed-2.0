@@ -22,7 +22,7 @@ modern:
   oneStonePerButton: true
   modernFenceRecipe: false
   snowLayerRecipe: true
-  threeLadersPerCraft: false
+  threeLaddersPerCraft: false
 tweaked:
   shapelessJackOLantern: true
   stairsPerCraft: 4

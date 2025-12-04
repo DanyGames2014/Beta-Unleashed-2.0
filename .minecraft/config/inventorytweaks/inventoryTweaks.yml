@@ -17,15 +17,14 @@ CRAFTING_RESULT_CONFIG:
   StopShiftClickCraftingWhenItemChanges: true
 MODERN_MINECRAFT_CONFIG:
   EnableShiftClickingItemsIntoArmorSlots: true
-  EnableShiftClickingItemsIntoDispensers: true
   EnableShiftClickingItemsIntoFurnaces: true
-  # Requires crates mod by Slainlight
-  EnableShiftClickingItemsIntoCrates: true
   # Initially empty cursor double click to pickup
   DoubleLeftClickItemPickup: true
   EnableDragGraphics: true
   EnableLeftClickDrag: true
   EnableRightClickDrag: true
+  # Must be installed on the server also to work
+  MultiplayerShiftClickingItemsIntoDispensers: false
   LMBPreferShiftClick: true
   RMBPreferShiftClick: true
   # Cursor must not be holding any items
@@ -43,5 +42,5 @@ MOUSE_TWEAKS_CONFIG:
   LMBTweakShiftClickAny: true
   # [Shift-Click] items of the held type
   LMBTweakShiftClick: true
-  RMBTweak: true
+  RMBTweak: false
   LMBTweakPickUp: true

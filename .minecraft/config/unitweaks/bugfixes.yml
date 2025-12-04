@@ -13,11 +13,17 @@ farLandsJitterFix: true
 # Fixes slimes not splitting when their health is below zero after dying
 enableSlimeSplitFix: true
 
+# Fixes the pathfinding calculation of nightmares
+nightmarePathfindingFix: true
+
 # Fixes entities jittering in multiplayer
 multiplayerEntityJitterFix: true
 
 # Fixes sometimes falling through the boat when dismounting it
 boatDismountFix: true
+
+# Fixes incorrectly rotated camera when sleeping and the ability to erroneously rotate it
+sleepingCameraRotationFix: true
 
 # Stairs will drop themselves instead of the base block
 stairsDropFix: true
@@ -70,6 +76,9 @@ grassBlockItemFix: true
 
 # WARNING: This could be considered a hack on some servers
 miningDelayFix: true
+
+# Fixes blocks not dropping on the last durability point of a tool
+lastDurabilityFix: true
 
 # Fixes the bottom face of a fence being dark when placed on block
 fenceLightingFix: true

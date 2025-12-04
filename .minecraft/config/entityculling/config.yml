@@ -6,11 +6,12 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-# Tools cannot be used if player is not OP
-activateEditingToolTooltipsOnServer: false
+disableEntityCulling: false
+disableBlockEntityCulling: false
 
-# Use this to disable tools in MP or SP
-disableAllEditingTools: false
+# If BetterF3 is installed disable there instead
+showF3Info: false
+f3InfoYOffset: 54
 
-# Single-player only
-enableTogglingEditingToolsWithBedrock: true
+# for funsies/debugging
+glassCulls: false

@@ -21,6 +21,8 @@ EXPLOSION_AND_FIRE_CONFIG:
   enableGhastFireballsToInstaKillGhasts: false
   # Use Left-Click with shears to defuse
   enableDefusingTnt: false
+  # Float value between 0.0 (0%) and 1.0 (100%)
+  chanceBlocksDropWhenExploded: 0.3
   disableAllExplosionsBreakingBlocks: false
   disableCreeperExplosionBreakingBlocks: false
   disableGhastExplosionBreakingBlocks: false
@@ -36,8 +38,8 @@ FLORA_CONFIG:
   enableShearsCollectFern: false
   # Restart required for changes to take effect
   enableShearsCollectTallGrass: false
-  # 0 = disabled, 5 = modern drop chance
-  appleDropChance: 0
+  # 0 = disabled, 0.5 = modern drop chance (0.5%)
+  appleDropChance: 0.0
   # Disabling converts rotated logs to weird oak
   enableLogRotation: false
   # Disables leaf decay for player placed leaves

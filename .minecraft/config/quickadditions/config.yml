@@ -24,6 +24,20 @@ MISSING_ACHIEVEMENTS_CONFIG:
   KILL_COW: false
   FLY_PIG: false
 ENTITY_SPAWN_MECHANICS_CONFIG:
+  SPAWN_LIST_CONFIG:
+    enableChickenEntitySpawning: true
+    enableCowEntitySpawning: true
+    enableCreeperEntitySpawning: true
+    enableGhastEntitySpawning: true
+    enablePigEntitySpawning: true
+    enableSheepEntitySpawning: true
+    enableSkeletonEntitySpawning: true
+    enableSlimeEntitySpawning: true
+    enableSpiderEntitySpawning: true
+    enableSquidEntitySpawning: true
+    enableWolfEntitySpawning: true
+    enableZombieEntitySpawning: true
+    enableZombiePigmanEntitySpawning: true
   # Living entities will no longer despawn
   disableLivingEntitiesDespawning: false
   # Saddled pigs will no longer despawn
@@ -57,14 +71,16 @@ MUSIC_CONFIG:
   # Float value between 0.0 (0%) and 1.0 (100%)
   volumeNetherPortalAmbient: 1.0
   # Float value between 0.0 (0%) and 1.0 (100%)
-  volumeRainAmbient: 1.0
+  volumeRainAmbient: 0.75
   # Float value between 0.0 (0%) and 1.0 (100%)
-  volumeGhastAmbient: 1.0
+  volumeGhastAmbient: 0.5
   # Float value between 0.0 (0%) and 1.0 (100%)
   volumeCaveAmbient: 1.0
 WEATHER_CONFIG:
   enableAlwaysSnowAboveSetYLevel: false
   alwaysSnowAboveThisYLevel: 100
+  # Restart required for changes to take effect
+  disableRainInSavannaBiomes: false
   sleepOnlyResetsWeatherWhenRaining: false
   # Added to minimum to find rain time
   timeUntilRainRandomLimit: 168000
@@ -91,7 +107,7 @@ handSwingClickToExitBedsEnabled: false
 # Game will not pause when tabbing away
 forceDisplayActive: false
 
-# Restart required for changes to take effect
+# Restart required; Overridden By UniTweaks
 SPAWN_PROTECTION_RADIUS: 16
 
 # Restart required for changes to take effect
