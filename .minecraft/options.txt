@@ -23,10 +23,6 @@ key_key.drop:16
 key_key.inventory:18
 key_key.chat:20
 key_key.fog:33
-key_key.alwaysmoreitems.toggleOverlay:24
-key_key.alwaysmoreitems.showRecipe:19
-key_key.alwaysmoreitems.showUses:22
-key_key.alwaysmoreitems.recipeBack:14
 key_Custom Photo:66
 key_Isometric Photo:65
 key_Toggle Freecam:44
