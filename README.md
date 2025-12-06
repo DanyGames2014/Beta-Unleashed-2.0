@@ -11,6 +11,7 @@ The Ultimate Minecraft Beta 1.7.3 Instance using Java 17 and Babric. Keeping the
 ## Some Notes:
 
 SmoothBeta does not work in MacOS.
+- If your game is crashing shortly after playing in a world try disabling SmoothBeta it has been known to cause issues on some machines that are not MacOS as well. If possible it is better to include it if it works though as the machines it does work on performance is greatly improved.
 
 
 Make sure you are using Java 17. You can download from https://adoptium.net/ or https://www.azul.com/downloads/ , or use https://prismlauncher.org/ which has a built-in Java detector and downloader.
