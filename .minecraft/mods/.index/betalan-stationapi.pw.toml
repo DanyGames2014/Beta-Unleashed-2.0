@@ -1,6 +1,6 @@
 filename = 'BetaLAN-2.4.1.jar'
-name = 'BetaLAN'
-side = 'both'
+name = 'BetaLAN StationAPI'
+side = 'client'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
