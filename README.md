@@ -73,8 +73,6 @@ StAPI No Annoying Intro - Vicisacat
 
 Station API - mine_diver, calmilamsy, paulevs and 6 other Contributors
 
-Third Person Fix - Slainlight
-
 UniTweaks - DanyGames2014, Telvarost
 
 UniTweaksTelsAddons - Telvarost
