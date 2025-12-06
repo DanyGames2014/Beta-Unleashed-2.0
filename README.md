@@ -63,15 +63,15 @@ Player List - Vicisacat, Telvarost
 
 QuickAdditions - Telvarost
 
-Retro Commands - Slainlight (shoutout to imo_415 for original mod (Single PlayerCommands))
-
 RetroAuth - Slainlight
+
+Retro Commands - Slainlight (shoutout to imo_415 for original mod (Single PlayerCommands))
 
 SmoothBeta - mine_diver
 
-StAPI No Annoying Intro - Vicisacat
-
 Station API - mine_diver, calmilamsy, paulevs and 6 other Contributors
+
+StAPI No Annoying Intro - Vicisacat
 
 UniTweaks - DanyGames2014, Telvarost
 
