@@ -55,7 +55,7 @@ Macula - daxnitro, mine_diver
 
 MiscTweaks - Telvarost, 2zqa
 
-Mod Menu (Beta Port) - calmilamsy, Telvarost (shoutout to Prospector + 71 Contributors for original mod)
+Mod Menu Babric - DanyGames2014, Farn (shoutout to OrnitheMC, Prospector, and 71 Contributors for original mod)
 
 MojangFixStationAPI - Telvarost, js6pak
 
