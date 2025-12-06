@@ -25,23 +25,25 @@ Only one step is needed to convert a world from 2.x to 1.x/vanilla. Select the w
 
 ## A shout out to the mod developers:
 
-Always More Items - calmilamsy, danygames2014
+Always More Items - calmilamsy, DanyGames2014
 
 Babric - js6pak, CatCore, calmilamsy
 
-BetaLAN - Telvarost, danyGames2014
+BetaLAN - Telvarost, DanyGames2014
 
 BetterScreenshots - Telvarost (shoutout to Birevan and Exalm for their help)
 
 BHCreative - paulevs
 
-CreativeEditorWands - Telvarost 
+CreativeEditorWands - Telvarost
 
-Freecam - Ralf2oo2, Telvarost 
+EntityCulling - Vicisacat
+
+Freecam - Ralf2oo2, Telvarost
 
 Gambáč - DanyGames2014
 
-Glass Config API - calmilamsy, Zekromaster, mineLdiver, Cat Core
+Glass Config API - calmilamsy, Zekromaster, mine_diver, CatCore
 
 Glass Networking - calmilamsy
 
@@ -61,7 +63,7 @@ Player List - Vicisacat, Telvarost
 
 QuickAdditions - Telvarost
 
-Retro Commands - slainlight (shoutout to imo_415 for original mod (Single PlayerCommands))
+Retro Commands - Slainlight (shoutout to imo_415 for original mod (Single PlayerCommands))
 
 RetroAuth - Slainlight
 
@@ -69,7 +71,7 @@ SmoothBeta - mine_diver
 
 StAPI No Annoying Intro - Vicisacat
 
-Station API - mineLdiver, calmilamsy, paulevs and 6 other Contributors
+Station API - mine_diver, calmilamsy, paulevs and 6 other Contributors
 
 Third Person Fix - Slainlight
 
