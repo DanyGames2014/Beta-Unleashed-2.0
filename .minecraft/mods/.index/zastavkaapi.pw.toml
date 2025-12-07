@@ -1,4 +1,4 @@
-filename = 'ZastavkaAPI-1.0.2.jar'
+filename = 'ZastavkaAPI-1.1.0.jar'
 name = 'ZastavkaAPI'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '9d6b24cfca85bee0bb33a76988a5d76033d62f3208220c5d1ed6541781c1887a7d67fe4dc0b28733fde0f03d3ca79185049c4fc92b2bd07010bc846fae0f9541'
+hash = '27843d5da42963c93e2abf85ae8628b808550d6e801909850078f75c1c8a60296f0735569487c84739a294dc1a32c83586ea641f1a32e300699e7f1fef611338'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/KOFg5p9n/versions/1a8q6vBf/ZastavkaAPI-1.0.2.jar'
+url = 'https://cdn.modrinth.com/data/KOFg5p9n/versions/SclNo4r8/ZastavkaAPI-1.1.0.jar'
 
 [update.modrinth]
 mod-id = 'KOFg5p9n'
-version = '1a8q6vBf'
+version = 'SclNo4r8'
