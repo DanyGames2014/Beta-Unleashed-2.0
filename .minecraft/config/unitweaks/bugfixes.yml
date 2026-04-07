@@ -83,5 +83,5 @@ lastDurabilityFix: true
 # Fixes the bottom face of a fence being dark when placed on block
 fenceLightingFix: true
 
-# NOT RECOMMENDED! Fixes the canvas not adjusting properly on higher than 100% display scaling
-hiDpiFix: false
+# Fixes torches not having bottom faces rendered
+torchBottomFaceFix: true

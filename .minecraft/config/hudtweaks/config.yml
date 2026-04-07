@@ -15,6 +15,7 @@ chatHistorySize: 100
 chatFadeTime: 100
 coordinateDisplay: 0
 disableCrosshair: false
+disableVignette: false
 drawXboxXAndYButtons: false
 
 # For fixing blocks rendering over messages

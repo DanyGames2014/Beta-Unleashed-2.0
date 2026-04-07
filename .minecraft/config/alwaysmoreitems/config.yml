@@ -15,6 +15,7 @@ editMode: false
 debugMode: false
 showModNames: true
 showNbtCount: false
+showRarities: true
 
 # Requires restart. Only use if necessary.
 ignoreUntranslatedNames: false

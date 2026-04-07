@@ -12,6 +12,9 @@ pickBlockFromInventory: true
 
 # Ignores block actions allowing you to place blocks when crouching
 shiftPlacing: true
+
+# Identifiers of blocks that won't have their block action skipped. (Requires StationAPI)
+shiftPlacingBlacklist: []
 rightClickEquipArmor: true
 
 # Only works if fence bounding box fix is enabled

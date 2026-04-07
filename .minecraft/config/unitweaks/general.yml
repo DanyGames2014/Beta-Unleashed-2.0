@@ -13,6 +13,9 @@ tcpNoDelay: true
 # You probably don't want this
 rawInput: false
 
+# Disables the initialization of LWJGL Controllers as it only causes issues anyway
+disableControllerInit: true
+
 # BetaCraft Resource Proxy by Default
 resourceDownloadUrl: "http://s3.betacraft.uk:11705/MinecraftResources/"
 

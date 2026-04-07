@@ -15,6 +15,10 @@ hideAchievementToast: false
 achievementBackToMenu: true
 disableDebugEntityIdTags: false
 frontViewThirdPerson: 1
+
+# Right clicking on a text field will clear it
+clearTextFieldWithRightClick: true
+fovSlider: true
 videoSettingsConfig:
   # Requires a restart to take effect
   brightnessSlider: true

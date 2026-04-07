@@ -37,6 +37,9 @@ addTotalPlayTimeToDebugOverlay: true
 addLightLevelToDebugOverlay: true
 addSlimeChunkToDebugOverlay: true
 overlayAdditionsYOffset: 0
+
+# Makes sheep always spawn with white wool
+disableColoredSheepSpawning: false
 milkSquids: false
 pigsDropBrownMushrooms: false
 plantReplacementFixesEnabled: true
