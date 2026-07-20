@@ -1,17 +1,29 @@
-filename = 'QuickAdditions-2.9.3.jar'
+filename = 'QuickAdditions-2.11.0.jar'
 name = 'QuickAdditions'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ 'b1.7.3', 'b1.7.3' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.9.3'
+x-prismlauncher-version-number = '2.11.0'
 
 [download]
-hash = '41fb137a4a8bbdf031c37779b1026c2a52d4cc0e4863ee83ae015263ec051ef74e318f647bd294e306ae4c90adca2535092b6d1876ab4d5e2942af8801660307'
+hash = '0ec141203167e9949140494a47c4849f27f15d3d9c5270c35088b4ca90c6673059c5fa9f17e4a6c6938a1b94b04250eb7a27ad1a32c40cf48b81d49268de15a7'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/50K1w3z1/versions/MFBpvmJL/QuickAdditions-2.9.3.jar'
+url = 'https://cdn.modrinth.com/data/50K1w3z1/versions/I7okFW2c/QuickAdditions-2.11.0.jar'
 
 [update.modrinth]
 mod-id = '50K1w3z1'
-version = 'MFBpvmJL'
+version = 'I7okFW2c'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'KOFg5p9n'
+type = 'REQUIRED'

@@ -1,17 +1,18 @@
-filename = 'StationAPI-2.0.0-alpha.5.4.jar'
+filename = 'StationAPI-2.0.0-alpha.6.2.jar'
 name = 'Station API'
 side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ 'b1.7.3', 'b1.7.3' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'alpha'
-x-prismlauncher-version-number = '2.0.0-alpha.5.4'
+x-prismlauncher-version-number = '2.0.0-alpha.6.2'
 
 [download]
-hash = '9417ca8ac18a17fcb5255306849470762d4d1d9b86fdd5a024c362d5dc0d911eb2e5495fb8d5983ed51047fd77c12b560c4f44b93ecfa742c0682191fa513ecb'
+hash = '10cede1e30d136c0fdde638308549d81e0a8797e358c200ee3271f6c075b43623e5f0058dcec1bc7741e39ded97708a38fcadd8df4d2e3a3e80bfd138c3db622'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/472oW63Q/versions/lfGFl3qH/StationAPI-2.0.0-alpha.5.4.jar'
+url = 'https://cdn.modrinth.com/data/472oW63Q/versions/lpvJITem/StationAPI-2.0.0-alpha.6.2.jar'
 
 [update.modrinth]
 mod-id = '472oW63Q'
-version = 'lfGFl3qH'
+version = 'lpvJITem'

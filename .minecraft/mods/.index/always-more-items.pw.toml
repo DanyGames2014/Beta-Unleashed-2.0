@@ -1,17 +1,18 @@
-filename = 'AlwaysMoreItems-1.9.0.jar'
+filename = 'AlwaysMoreItems-1.10.0.jar'
 name = 'Always More Items'
 side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ 'b1.7.3', 'b1.7.3' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.9.0'
+x-prismlauncher-version-number = '1.10.0'
 
 [download]
-hash = 'c89ca788044dc1eff913cbe88b1e985aea8ad11e7cb46812333c492e7cb9f37d8238feabbb48b8f76d89d82aeace4c6b71a6b65853ca9e117e0a903cc76f655e'
+hash = 'd36323fc2f42105dfac7ff876127b97e7cfdb4405d00a9e65bf62d649de6da9c8030cfd3ec3909420ac74a8e691801cb5e8fa06df5526bab8ba61322a8ca5676'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/sS8EvDNQ/versions/KUt0Bc51/AlwaysMoreItems-1.9.0.jar'
+url = 'https://cdn.modrinth.com/data/sS8EvDNQ/versions/PEQoPux8/AlwaysMoreItems-1.10.0.jar'
 
 [update.modrinth]
 mod-id = 'sS8EvDNQ'
-version = 'KUt0Bc51'
+version = 'PEQoPux8'

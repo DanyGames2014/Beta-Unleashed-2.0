@@ -46,6 +46,9 @@ springPropagationFix: true
 # Fixes lava not dissapearing without a source block
 lavaWithoutSourceFix: true
 
+# Fixes liquid flowing down from above not dropping items such as torches and rails when broken
+liquidBlockDropFix: true
+
 # Skeletons and Players now hold bows properly
 bowHeldFix: true
 leggingsWhenRidingFix: true

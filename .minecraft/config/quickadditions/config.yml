@@ -56,6 +56,8 @@ MUSIC_CONFIG:
   stopCurrentBgmOnPortalUse: true
   # Using portals stops dimension specific songs
   stopDimensionSpecificSongOnPortalUse: true
+  # Disables randomly playing background music
+  disableBackgroundMusic: false
   # Plays 'mainmenu' song file if one is found
   mainMenuThemeEnabled: true
   mainMenuThemeOverridesBGM: false
@@ -79,6 +81,8 @@ MUSIC_CONFIG:
 WEATHER_CONFIG:
   enableAlwaysSnowAboveSetYLevel: false
   alwaysSnowAboveThisYLevel: 100
+  disableRain: false
+  disableThunder: false
   # Restart required for changes to take effect
   disableRainInSavannaBiomes: false
   sleepOnlyResetsWeatherWhenRaining: false
