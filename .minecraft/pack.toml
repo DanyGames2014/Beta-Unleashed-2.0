@@ -1,0 +1,17 @@
+name = "Beta Unleashed 2.0"
+author = "DanyGames2014"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "55d1c24b923fb6e99e2667962e99ff198086a40471d028184080343111b2c5e4"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "b1.7.3"
+unsup = "1.2.7"
+
+[options]
+acceptable-game-versions = ["b1.7.3"]

@@ -1,14 +1,4 @@
 # Client Files
-.minecraft/.fabric
-.minecraft/.optifabric
-.minecraft/coremods
-.minecraft/logs
-.minecraft/resourcepacks
-.minecraft/resources
-.minecraft/saves
-.minecraft/screenshots
-.minecraft/server-resource-packs
-.minecraft/stats
 /natives
 
 # Log Files
@@ -16,13 +6,3 @@
 
 # Meta Files
 .DS_Store
-
-# BetaLAN internal server files
-.minecraft/ops.txt
-.minecraft/white-list.txt
-.minecraft/server.properties
-.minecraft/banned-ips.txt
-.minecraft/banned-players.txt
-.minecraft/client.lock
-/.minecraft/libraries
-.minecraft/local-babric-server.0.16.9.jar

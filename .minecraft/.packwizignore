@@ -1,0 +1,13 @@
+.fabric
+mods/.index/
+mods/rei_minimap
+logs
+resources
+saves
+server-resource-packs
+stats
+texturepacks
+.gitignore
+icon.png
+options.txt
+unsup.toml

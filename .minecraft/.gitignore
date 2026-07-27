@@ -1,0 +1,21 @@
+.fabric
+logs
+resources
+saves
+screenshots
+server-resource-packs
+stats
+texturepacks
+icon.png
+options.txt
+mods/rei_minimap
+
+# BetaLAN internal server files
+ops.txt
+white-list.txt
+server.properties
+banned-ips.txt
+banned-players.txt
+client.lock
+libraries
+local-babric-server.0.16.9.jar
