@@ -31,7 +31,7 @@ enableChatChanges: true
 enableDeathScreenScoreFix: false
 
 # Restart required for changes to take effect
-enableDebugGraphChanges: true
+enableDebugGraphChanges: false
 
 # False=Toggle debug graph with just KEYBIND
 enableDebugGraphModernToggle: true
@@ -69,4 +69,4 @@ renderCape: false
 raiseSlimSkinShoulders: false
 
 # Restart required for changes to take effect
-useResourcesDownloadURL: true
+useResourcesDownloadURL: false

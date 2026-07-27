@@ -46,7 +46,7 @@ hash = "6922561992fc6aa051ce9b3a75fd04711297e0eb65232ce6a09a534054193840"
 
 [[files]]
 file = "config/mojangfixstationapi/config.yml"
-hash = "46d543f6d7687fdc8c6a391266d119da94607e5924a32c837509d81c63d3936a"
+hash = "afb55d59d48c8ea0bbfb3969155dd6f23cc3671a4ffad57025010e19e1dca08d"
 
 [[files]]
 file = "config/quickadditions/config.yml"
@@ -165,8 +165,8 @@ file = "mods/freecam-0.3.2.jar"
 hash = "f35c5b07ef0359d76f07d1ff5c1b4b8c32030e1fdbb6aca900f9e7b7326f7283"
 
 [[files]]
-file = "mods/gambac-1.3.2.jar"
-hash = "e03007bfdd6c14084094484ccace7c9ab4086da496654e6d9c089478bb27e737"
+file = "mods/gambac-1.4.0.jar"
+hash = "233f9029df890685a05c3cb36c4b0adcd9e14bcbb9923d31dd95b0fff118a78e"
 
 [[files]]
 file = "mods/glass-networking-1.0.7.jar"
