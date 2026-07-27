@@ -23,8 +23,6 @@ key_key.drop:16
 key_key.inventory:18
 key_key.chat:20
 key_key.fog:33
-key_Custom Photo:66
-key_Isometric Photo:65
 key_Toggle Freecam:44
 key_Toggle Player Movement:47
 key_Change Freecam Speed:48
@@ -49,15 +47,15 @@ key_key.unitweaks.hotbar_6:7
 key_key.unitweaks.hotbar_7:8
 key_key.unitweaks.hotbar_8:9
 key_key.unitweaks.hotbar_9:10
-key_key.unitweaks.panorama_screenshot:38
-key_key.unitweaks.rescan:37
-key_key.unitweaks.toggle_raw_input:23
+key_key.unitweaks.panorama_screenshot:0
+key_key.unitweaks.rescan:0
+key_key.unitweaks.toggle_raw_input:0
 key_playerList:15
 fov:0.0
 fog_density:0.5
 clouds:true
 cloud_height:0.0
-fps_limit: 0.4
+fps_limit: 1.0
 render_distance: 0.2
 brightness:0.0
 gui_scale:0.0

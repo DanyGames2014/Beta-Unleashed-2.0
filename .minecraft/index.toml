@@ -42,7 +42,7 @@ hash = "a4e9a95a4b2b91c20d607c07dcefa30069ae48855869d87c85d4c3502354405f"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "454531d1355cd72a0df955a8d32ec1ab0dd800c0dd70da8e2b5772d19d9f759d"
+hash = "6922561992fc6aa051ce9b3a75fd04711297e0eb65232ce6a09a534054193840"
 
 [[files]]
 file = "config/mojangfixstationapi/config.yml"
