@@ -1,8 +1,0 @@
-# Client Files
-/natives
-
-# Log Files
-*.log
-
-# Meta Files
-.DS_Store

@@ -19,3 +19,9 @@ banned-players.txt
 client.lock
 libraries
 local-babric-server.0.16.9.jar
+
+# Log Files
+*.log
+
+# Meta Files
+.DS_Store
