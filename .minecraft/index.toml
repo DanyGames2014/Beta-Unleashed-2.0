@@ -193,8 +193,8 @@ file = "mods/retrocommands-0.5.10.jar"
 hash = "b82604ed559bdd6c910206ab377e108330295c9841b58eaa0043c08f1aa5c99f"
 
 [[files]]
-file = "mods/shineko-1.0.0-alpha.2.jar"
-hash = "21e60392946201a3eb306a9c796bb98a2e7e23d575faa9f30791f2773fbd6471"
+file = "mods/shineko-1.0.0-alpha.5.jar"
+hash = "5b493b004ac90dbfffe4b4aa7b199f3c7575b92a5b1cf8ed2b70fcf6b0479542"
 
 [[files]]
 file = "mods/stapi-fast-intro-2.0.0.jar"
