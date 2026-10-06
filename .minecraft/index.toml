@@ -50,7 +50,7 @@ hash = "afb55d59d48c8ea0bbfb3969155dd6f23cc3671a4ffad57025010e19e1dca08d"
 
 [[files]]
 file = "config/quickadditions/config.yml"
-hash = "9b30f06a3380975b7d1b5889ae90641b701643cb06d7ef8b3e515e4a1d5feb52"
+hash = "c8e079a3eef1505fdf8333780080a84c5ee5e4c5a21fdfd082f06a94aad8c8ce"
 
 [[files]]
 file = "config/shineko/general.yml"
@@ -62,7 +62,7 @@ hash = "5f12c760bf980afa2cf6b331f4e87c884f5c6a36c99a0869bf5379b981c62b29"
 
 [[files]]
 file = "config/unitweaks/bugfixes.yml"
-hash = "457ad14edb3593f4d0d137aaff02e81b1a4c2c635f3efea2dc3e271a4ae0a238"
+hash = "4d3f697bdd833c85a0fc60930db4a58f4ebe0533267525b18a785526af7535bd"
 
 [[files]]
 file = "config/unitweaks/features.yml"
@@ -90,15 +90,15 @@ hash = "b8796637ac4931f6ec28ddb0ef3786336b6811704079795df577e331e0a07334"
 
 [[files]]
 file = "config/unitweaks/userinterface.yml"
-hash = "4f45fd6e9b69c23879bccf9307fd8d635d7426a1a6c9d5ae339327c336f71909"
+hash = "f3c89f3491d769a4abfdca0f5a2798858c2ffceb7c06f536acb243acab884481"
 
 [[files]]
 file = "config/unitweakstelsaddons/config.yml"
 hash = "12b39684ae8eccfdfb133a7ca7e0eee639c5cad49279184a5b33f529ef272d3e"
 
 [[files]]
-file = "mods/AlwaysMoreItems-1.10.0.jar.disabled"
-hash = "f48fc1f550c5614ddc048d8334951292e1614296e53a5cdd08ecf045d93af572"
+file = "mods/AlwaysMoreItems-1.10.4.jar.disabled"
+hash = "e992a15ec867fa6346733ac4e2917cfb8a3155236e789a1f4e8743fe5eba0ed8"
 
 [[files]]
 file = "mods/BHCreative-0.4.9.jar"
@@ -129,20 +129,24 @@ file = "mods/Macula-2.0.jar.disabled"
 hash = "c3e713d280cb1b869479bd03c2ea73daf8ec54107f83a62d38752e727cd646a6"
 
 [[files]]
-file = "mods/MiscTweaks-5.5.1.jar"
-hash = "048e3d61b344c991805f5368d9c9b9a1c4cca8afc10d8f291acfaa3267846ef6"
+file = "mods/MiscTweaks-5.5.2.jar"
+hash = "c5237cb74cf1de980fb61713a8610495876ed8f353d2253cbe88e45b60f96b03"
 
 [[files]]
-file = "mods/QuickAdditions-2.11.0.jar"
-hash = "58d0da1a81613638e5632ede6b623b768b97c2e53745e03701691b480ca4efda"
+file = "mods/QuickAdditions-2.12.0.jar"
+hash = "34387285d4b4a7ec2001aa321deebf3422344040d8be72cb8cc24dfb9c9e44eb"
 
 [[files]]
-file = "mods/StationAPI-2.0.0-alpha.6.2.jar"
-hash = "fd557e5d05630e79913e9cf422804039be0117b45a1e9f0e03dcc89eddc22602"
+file = "mods/SmoothBeta-1.1.8.jar"
+hash = "0acfa6a2eb59e4472808026d1108d85580aff776aa3deb2cdcf89fcd8f580bce"
 
 [[files]]
-file = "mods/UniTweaks-0.29.0.jar"
-hash = "a8676d5aa480c501691aa7fa5d3beebfd9fe1a146c1be9e66218a8a595dd2f2d"
+file = "mods/StationAPI-2.0.0-alpha.6.4.jar"
+hash = "9df028a04f9101863cbfccebd41794802ab5445dd942d19c4d68eaf65775f729"
+
+[[files]]
+file = "mods/UniTweaks-0.31.0.jar"
+hash = "50db30a7e4ff32a6a23216e966aca6b39982f28b21c3ea81fb114073072c7431"
 
 [[files]]
 file = "mods/UniTweaksTelsAddons-1.9.1.jar"
@@ -151,10 +155,6 @@ hash = "16c004b80701a659d155f1bb17267aa52202c6cfd9b372aa59eab18d1bd8913c"
 [[files]]
 file = "mods/ZastavkaAPI-1.1.2.jar"
 hash = "afc2c7c6aad49b3facdb941d7be826970c3be8ad9756ef3bdaad59f393b53f8d"
-
-[[files]]
-file = "mods/amphetamine-0.3.jar"
-hash = "f44e8968e747a0cb4cad8a23eacd37682130108b723033b28eec881ddf3b5092"
 
 [[files]]
 file = "mods/entityculling-fabric-babric-1.7.0-candidate.1.jar"
@@ -177,8 +177,8 @@ file = "mods/modmenu-1.1.1.jar"
 hash = "f9cae45c4de9f8b440701e95b3335dc3b7865e2a5993f6c9f6205aac6044c654"
 
 [[files]]
-file = "mods/mojangfixstationapi-2.4.4.jar"
-hash = "a859f5363ece260f6104040334b0968257294f5ca48d413f4b8c67b80d878c54"
+file = "mods/mojangfixstationapi-2.4.5.jar"
+hash = "1815109e09d14e2b834cdbaf671965d51fcfd1a518fd56db310f8ee85c6653ca"
 
 [[files]]
 file = "mods/player-list-mod-1.1.0-candidate1.jar"

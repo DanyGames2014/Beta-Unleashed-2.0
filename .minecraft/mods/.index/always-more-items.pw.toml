@@ -1,18 +1,25 @@
-filename = 'AlwaysMoreItems-1.10.0.jar'
+filename = 'AlwaysMoreItems-1.10.4.jar'
 name = 'Always More Items'
 side = ''
-x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.10.0'
+x-prismlauncher-version-number = '1.10.4'
 
 [download]
-hash = 'd36323fc2f42105dfac7ff876127b97e7cfdb4405d00a9e65bf62d649de6da9c8030cfd3ec3909420ac74a8e691801cb5e8fa06df5526bab8ba61322a8ca5676'
+hash = 'f86b018f7a61e3eb2961630ad3c45ea75bedf96f8af7c1e49591379faf57796adc128f47cd82831dc4f3c73ca1618ae3f4a486ce2c52add533c925e0ddc56a7f'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/sS8EvDNQ/versions/PEQoPux8/AlwaysMoreItems-1.10.0.jar'
+url = 'https://cdn.modrinth.com/data/sS8EvDNQ/versions/oqnAKf2x/AlwaysMoreItems-1.10.4.jar'
 
 [update.modrinth]
 mod-id = 'sS8EvDNQ'
-version = 'PEQoPux8'
+version = 'oqnAKf2x'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'rFeWTq4G'
+type = 'REQUIRED'

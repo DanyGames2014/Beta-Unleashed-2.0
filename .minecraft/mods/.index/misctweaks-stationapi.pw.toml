@@ -1,16 +1,25 @@
-filename = 'MiscTweaks-5.5.1.jar'
+filename = 'MiscTweaks-5.5.2.jar'
 name = 'MiscTweaks'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '5.5.2'
 
 [download]
-hash = '73deeff86e5be263f5f792c775c1ab6b4180a1e6229b546f11edf851f37977dcabf780573e555db57335da09667497da592b18c1d5827a2a24098fcbd8d34cd6'
+hash = '1dddec3445bf738a9c5a9348a30a0ff37c5698ab6251e6e151a78fbf1929ec47a91407fd9fae8ee7556ebd91f3f34bb1e4f055e3265c3691292d5bdf155b3a37'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/vP3fLmO7/versions/Kj2ZMWQR/MiscTweaks-5.5.1.jar'
+url = 'https://cdn.modrinth.com/data/vP3fLmO7/versions/jYiKS1Od/MiscTweaks-5.5.2.jar'
 
 [update.modrinth]
 mod-id = 'vP3fLmO7'
-version = 'Kj2ZMWQR'
+version = 'jYiKS1Od'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'

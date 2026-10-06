@@ -78,6 +78,15 @@ MUSIC_CONFIG:
   volumeGhastAmbient: 0.5
   # Float value between 0.0 (0%) and 1.0 (100%)
   volumeCaveAmbient: 1.0
+SLEEP_CONFIG:
+  # Float value between 0.0 (0%) and 1.0 (100%)
+  asleepPlayerPercentageForSkippingNight: 1.0
+  bedsSpeedUpNightRatherThanSkipIt: false
+  # 1 = normal speed
+  bedsSpeedUpNightTickRate: 20
+  # Night speed up ticks world as well
+  bedsSpeedUpNightTickWorld: true
+  handSwingClickToExitBedsEnabled: true
 WEATHER_CONFIG:
   enableAlwaysSnowAboveSetYLevel: false
   alwaysSnowAboveThisYLevel: 100
@@ -102,11 +111,6 @@ WEATHER_CONFIG:
   thunderDurationRandomLimit: 12000
   # Minimum time in ticks until thunder ends
   thunderDurationMinimum: 3600
-
-# Float value between 0.0 (0%) and 1.0 (100%)
-asleepPlayerPercentageForSkippingNight: 1.0
-bedsSpeedUpNightRatherThanSkipIt: false
-handSwingClickToExitBedsEnabled: false
 
 # Game will not pause when tabbing away
 forceDisplayActive: false

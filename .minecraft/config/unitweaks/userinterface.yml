@@ -46,3 +46,6 @@ panoramaConfig:
   blurBackground: true
   # Default included : beta18, glacier
   panoramaFolder: "glacier"
+photoModeConfig:
+  # Enables the Photo Mode button in game menu
+  enablePhotoModeButton: true

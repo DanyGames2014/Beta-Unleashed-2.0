@@ -88,3 +88,6 @@ fenceLightingFix: true
 
 # Fixes torches not having bottom faces rendered
 torchBottomFaceFix: true
+
+# Fixes the player's hand being misplaced when riding and using F5
+firstPersonRidingHandFix: true
