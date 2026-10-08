@@ -4,7 +4,7 @@
 
 Other Contributors: Mongster, all the developers of mods used, all texture pack/shader artists, and all play-testers.
 
-The Ultimate Minecraft Beta 1.7.3 Instance using Java 17 and Babric. Keeping the gameplay as vanilla as possible (and making any non-vanilla features toggleable), while fixing major bugs, boosting performance, removing/modifying annoying features, and adding many QoL features.
+The Ultimate Minecraft Beta 1.7.3 Instance using Java 21 and Babric. Keeping the gameplay as vanilla as possible (and making any non-vanilla features toggleable), while fixing major bugs, boosting performance, removing/modifying annoying features, and adding many QoL features.
 
 **Beta Unleashed Discord Server: https://discord.gg/q3aWwxB2zf**
 
@@ -14,7 +14,7 @@ SmoothBeta does not work in MacOS.
 - If your game is crashing shortly after playing in a world try disabling SmoothBeta as it has been known to cause issues on some machines that are not MacOS. If possible it is better to include it though as the machines it does work on performance is greatly improved.
 
 
-Make sure you are using Java 17. You can download from https://adoptium.net/ or https://www.azul.com/downloads/ , or use https://prismlauncher.org/ which has a built-in Java detector and downloader.
+Make sure you are using Java 21. You can download from https://adoptium.net/ or https://www.azul.com/downloads/ , or use https://prismlauncher.org/ which has a built-in Java detector and downloader.
 
 SmoothBeta and Macula are incompatible, so turn one off when using the other one. It is also recommended to turn off Advanced OpenGL to prevent lighting issues while using Macula/shaders.
 

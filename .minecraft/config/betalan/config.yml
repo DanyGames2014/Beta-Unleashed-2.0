@@ -26,7 +26,7 @@ BACKUP_WORLD_ON_LAN_SERVER_LAUNCH: true
 ENABLE_WORLD_SHOWCASE_MODE: false
 FORCE_ONLINEMODE_FALSE: true
 
-# Path to Java 17 runtime
+# Path to Java 21 runtime
 JAVA_PATH: "java"
 enableServerLogsInConsole: true
 
