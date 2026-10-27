@@ -23,7 +23,7 @@ AUTO_OP_LAN_SERVER_HOST: true
 BACKUP_WORLD_ON_LAN_SERVER_LAUNCH: true
 
 # World/Player changes will not be saved
-ENABLE_WORLD_SHOWCASE_MODE: false
+ENABLE_WORLD_SHOWCASE_MODE: true
 FORCE_ONLINEMODE_FALSE: true
 
 # Path to Java 17 runtime

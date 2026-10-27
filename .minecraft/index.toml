@@ -6,7 +6,7 @@ hash = "67e1f414ce5cee31c4e186e8a8978b07519ff5457580c87e27d4e46163ad58a2"
 
 [[files]]
 file = "config/betalan/config.yml"
-hash = "a4dbb696a26aa2890b375e3a1cb1b374badaa6457fdce0217704fbda9729ba50"
+hash = "06f17dcc9d4857bd8654800b545dd90f09cf2f0c3eb3189a5f87562b798a1443"
 
 [[files]]
 file = "config/creativeeditorwands/config.yml"
@@ -101,11 +101,15 @@ file = "mods/AlwaysMoreItems-1.10.4.jar.disabled"
 hash = "e992a15ec867fa6346733ac4e2917cfb8a3155236e789a1f4e8743fe5eba0ed8"
 
 [[files]]
+file = "mods/Amphetamine-1.2.0.jar"
+hash = "90aa392cd7db78f5fd9956191ee14d780a7dd6397104c8725c6befcee5043ce6"
+
+[[files]]
 file = "mods/BHCreative-0.4.9.jar"
 hash = "b98173892b37f235b5a7db0ece1cd43508b42757fdb259bbddad7a03ca04dab0"
 
 [[files]]
-file = "mods/BetaLAN-2.4.2.jar"
+file = "mods/BetaLAN-2.4.2.jar.disabled"
 hash = "aca31ca71daf41c0d32f9e3500be7edc9bc392ec35247e26d448fb243d05a295"
 
 [[files]]
@@ -121,8 +125,8 @@ file = "mods/HudTweaks-1.9.0.jar"
 hash = "2f79535e09f7918ebcf63d13f9f7d0a2089c8f4538b28f1e6fa8795283994a89"
 
 [[files]]
-file = "mods/InventoryTweaks-2.6.1.jar"
-hash = "cfc7fe94d943c01eea85c8aca6d056500143413bd4ac219eea928d1a2c60c6c8"
+file = "mods/InventoryTweaks-2.6.2.jar"
+hash = "0567cc1ef2bfc46c5ae9a5e8fcd9d832b02ba278282bb8e66238e84dec26aac6"
 
 [[files]]
 file = "mods/Macula-2.0.jar.disabled"
@@ -135,10 +139,6 @@ hash = "c5237cb74cf1de980fb61713a8610495876ed8f353d2253cbe88e45b60f96b03"
 [[files]]
 file = "mods/QuickAdditions-2.12.0.jar"
 hash = "34387285d4b4a7ec2001aa321deebf3422344040d8be72cb8cc24dfb9c9e44eb"
-
-[[files]]
-file = "mods/SmoothBeta-1.1.8.jar"
-hash = "0acfa6a2eb59e4472808026d1108d85580aff776aa3deb2cdcf89fcd8f580bce"
 
 [[files]]
 file = "mods/StationAPI-2.0.0-alpha.6.4.jar"
